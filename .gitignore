@@ -1,0 +1,18 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Xerox.Wnc.Resources/bin/Debug
+/Xerox.Wnc.Resources/obj
+/.vs
+/Xerox.Wnc.Translations/obj
+/Xerox.Wnc.Translations/bin/Debug
+/Xerox.Wnc.Utility/bin/Debug/net7.0
+/Xerox.Wnc.Utility/obj
+/Xerox.Wnc.Weblet/bin/Debug
+/Xerox.Wnc.Weblet/obj
+/Xerox.Wnc.Utility/bin/Debug/net6.0
+/Xerox.Wnc.Utility/bin/Release/net7.0
+/Xerox.Wnc.Weblet/bin/Release/net6.0
+/Xerox.Wnc.Translations
+/Xerox.Wnc.Resources

@@ -1,0 +1,122 @@
+// Copyright © 2022 Xerox Corporation. All Rights Reserved.
+@import "../../../assets/Content/Styles/editableField.less";
+scan-screen {
+
+    .has-warning {
+        .xrx-alert,
+        .help-block {
+            color: #bc1620;
+        }
+
+        &.themed {
+            .xrx-alert,
+            .help-block {
+                color: #ffffff;
+            }
+        }
+    }
+
+    .scanScreen .editable-field-label {
+        color: #fff !important;
+    }
+
+    .reset-margin {
+        margin-top: 4px !important;
+        margin-bottom: 4px;
+
+        @media (min-width: 1024px) {
+            margin-top: 11.75px !important;
+            margin-bottom: 13.5px;
+        }
+    }
+}
+.form-control {
+  width: 99%;
+  padding-left: 1%;
+  //font-weight: 500;
+}
+
+/*::selection{
+    background: black !important;
+    color: black !important;
+   }
+
+   ::-moz-selection{
+    background: black !important;
+    color: black !important;
+   }
+
+   ::-webkit-selection{
+    background: black !important;
+    color: black !important;
+   }
+
+   ::-ms-selection{
+    background: black !important;
+    color: black !important;
+   }
+   ::-o-selection {
+    background: black !important;
+    color: black !important;
+   }*/
+
+@media (max-width :1024px){
+  .form-control {
+    width: 98.5%;
+    //font-weight: bold;
+  }
+}
+
+.txt-bold, .btn.text-bold {
+  font-weight: 600 !important;
+}
+
+
+
+.txt-bold:focus, .btn.text-bold:focus {
+  font-weight: 500 !important;
+}
+
+
+.text-bold:focus {
+  font-weight: 500 !important;
+
+  @media(min-width:1024px) {
+    font-weight: 600 !important;
+    font-size: 23px !important;
+  }
+
+  @media(min-width:800px) {
+    font-weight: bolder !important;
+  }
+}
+
+.email-text-bold:focus {
+  @media(min-width:1024px) {
+    font-weight: 600 !important;
+    font-size: 23px !important;
+  }
+
+  @media(min-width:800px) {
+    font-weight: bolder !important;
+  }
+}
+
+.txt-thin {
+  font-weight: 300 !important;
+}
+
+input.placeholderFont:focus::-webkit-input-placeholder {
+  font-weight: 300;
+  opacity: 0.3 !important;
+  color: #999
+}
+
+
+.text-size-medium, .btn.btn-medium {
+  font-size: 27px !important;
+
+  @media(min-width:1024px) {
+    font-size: 23px !important;
+  }
+}

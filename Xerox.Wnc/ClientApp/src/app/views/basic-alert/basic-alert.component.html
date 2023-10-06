@@ -1,0 +1,21 @@
+<!--<div> Document scanned successfully</div>-->
+
+<div class="alert alert-popup alert-background alert-opacity alert_bg">
+
+    <div class="alert-container">
+
+        <div class="alert-content">
+
+            <h3 class="alert-title" >{{this.title}}</h3>
+
+            <p class="mbtm20 alert-additional-title"><!--ng-if="$ctrl.resolve.body"-->
+                <span class="alert-additional-info" >{{this.message}}</span> <!--xas-string="{{$ctrl.resolve.body}}"-->
+              </p>
+
+              <div class="alert-button-container">
+                <button type="button" class="btn btn-medium glyph-button btn-secondary-alert xrx-close" (click)="closeModal()" xasString="SDE_CLOSE"> </button><!-- ng-click="$ctrl.close()"  xas-string="{{$ctrl.resolve.buttonText}}"  {{$ctrl.resolve.buttonText}}-->
+            </div>
+        </div>
+
+    </div>
+</div>

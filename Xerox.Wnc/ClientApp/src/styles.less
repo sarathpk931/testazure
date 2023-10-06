@@ -1,0 +1,134 @@
+@import './assets/Content/Styles/text.less';
+@import './assets/Content/Styles/colors.less';
+@import './assets/Content/Styles/shadows.less';
+@import './assets/Content/Styles/modals.less';
+@import './assets/Content/Styles/glyphs.less';
+@import './assets/Content/Styles/grid.less';
+@import './assets/Content/Styles/buttons.less';
+@import './assets/Content/Styles/site.less';
+@import './assets/Content/Styles/editableField.less';
+@import './assets/Content/Styles/textField.less';
+@import '../node_modules/@angular/cdk/overlay-prebuilt.css';
+//@import '../node_modules/@angular/material/prebuilt-themes/indigo-pink.css';
+//@import '../node_modules/angular-iscroll-probe/src/lib/_iscroll.scss';
+@iscroll-wrapper-background-color: #777;
+@iscroll-scroller-background-color: #fff;
+
+.error_updated
+{
+    color:#fff;
+    font-size: 13px;
+}
+
+.ad-themed ::placeholder {
+  color: white;
+}
+
+.form-control {
+  height: 62px;
+  width: 100%;
+  color: #fff;
+  background-color: transparent;
+  background-clip: padding-box;
+  border: 1px solid #380a2e;
+  border-radius: 3px;
+  box-shadow: #d829b7 0px 1px 0px 0px inset, #d829b7 1px 0px 0px 0px inset;
+  border-color: #380a2e;
+  text-shadow: #1d1d1d 0px -1px 0px;
+
+}
+
+.form-control:focus {
+  //color: #212529;
+  color: #380a2e;
+  background-color: #fff;
+  border-color: #f406c0;
+  outline: 0;
+  box-shadow: 0 0 0 0.25rem #ae0689;
+}
+
+
+.editable-field-input {
+  width: 100%;
+   border: none;
+   height: 62px;
+   padding: 0.965rem 1.25rem 0.965rem 2.25rem;
+   font-size: 27px;
+   outline: none;
+   vertical-align: middle;
+   border-radius: 3px;
+   @media (max-width: 1023px) {
+     height :68px;
+   }
+ }
+
+
+.mat-dialog-container{
+  padding: 0px !important;
+  border-radius: 0px !important;
+  overflow:hidden !important;
+}
+
+.cdk-global-scrollblock{
+  overflow-y: hidden;
+  //display:none;
+}
+.cdk-overlay-pane {
+  max-width: none !important;
+  position: absolute !important;
+  vertical-align: middle !important;
+  align-items: center !important;
+  }
+
+.cdk-overlay-backdrop-hide {
+    display: none;
+  }
+.cdk-overlay-container{
+  display: block !important;
+}
+.cdk-overlay-backdrop {
+  position: absolute;
+  top: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.iscroll-on {
+  .iscroll-wrapper {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background-color: @iscroll-wrapper-background-color;
+
+  }
+  .iscroll-scroller {
+    position: absolute;
+    width: 100%;
+    min-height: 100%;
+    background-color: @iscroll-scroller-background-color;
+  }
+}
+
+.iScrollVerticalScrollbar {
+  position: absolute;
+  width: 4px;
+  top: 2px;
+  bottom: 2px;
+  right: 2px;
+  z-index: 30 !important;
+}
+
+
+.iScrollIndicator {
+  box-sizing: border-box;
+  position: absolute;
+  background: rgba(0,0,0,.5);
+  border: none;
+  border-radius: 3px;
+  width: 100%;
+  transition-duration: 0ms;
+  display: block;
+  height: 214px;
+  transform: translate(0);
+  transition-timing-function: cubic-bezier(.1,.57,.1,1)
+}

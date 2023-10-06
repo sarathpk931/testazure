@@ -1,0 +1,37 @@
+
+<div class="popover">
+    
+        <!-- <div class="arrow-segment" *ngFor="let segment of arrowSegments"></div> -->
+        <!--  <div class="header-right">
+        <button type="button" class="btn btn-medium btn-glyph xrx-close" (click)="closeModal()"></button>
+            </div> -->
+    
+        <div class="contents" #scrollableContent>
+            <div class="popover-scroll-content" style="overflow:hidden" ngScrollable='{"autoHeight": true,"watchHeight": true}'>
+                <ul class="action-list button-group">
+                    <li *ngFor="let option of fileFormatOption">
+                        <button class="btn btn-medium btn-image" (click)="selectOption(option)" [ngClass]="getNgClass(option)" >
+                            
+                            <!-- Option icon -->
+                            <div class="image-container" *ngIf="option.icon" >
+                                <img class="image" src="../../../assets/Content/Images/{{option.icon}}">
+                            </div>
+                            <!-- Option text -->
+                            <div class="text-container">
+                              <span class="left-text" *ngIf="this.resourceString[option.title] != null"> {{this.resourceString[option.title]}}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                              <span class="left-text" *ngIf="this.resourceString[option.title] == null">{{ option.title}}  </span>
+                             </div>
+                            <!-- Option glyph -->
+                            <div class="glyph-container" *ngIf="option.glyph">
+                              &nbsp;&nbsp;<span ngClass="{{option.glyph}}"></span>
+                            </div>
+                        </button>
+                    </li>
+                
+                </ul>
+            </div>
+        </div>
+    
+    
+   
+</div>

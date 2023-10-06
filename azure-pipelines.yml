@@ -1,0 +1,120 @@
+# ASP.NET Core (.NET Framework)
+# Build and test ASP.NET Core projects targeting the full .NET Framework.
+# Add steps that publish symbols, save build artifacts, and more:
+# https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core
+
+trigger:
+  - main
+
+pool:
+  vmImage: "windows-latest"
+
+variables:
+  outputDirectory: 'Xerox.Wnc/output/'
+  outputDevDirectory: 'Xerox.Wnc/output/Development'
+  outputTestDirectory: 'Xerox.Wnc/output/Test'
+  outputStageDirectory: 'Xerox.Wnc/output/Stage'
+  outputProdDirectory: 'Xerox.Wnc/output/Production'
+  projectRelativePath: 'Xerox.Wnc/Xerox.Wnc.Web.csproj'
+  solution: "$(projectRelativePath)"
+  buildPlatform: "Any CPU"
+  buildConfiguration: "Release"
+  
+steps:
+  - task: NuGetToolInstaller@1
+
+  - task: UseDotNet@2
+    inputs:
+      packageType: "sdk"
+      version: "7.0.x"
+      installationPath: $(Agent.ToolsDirectory)/dotnet
+
+  - task: NuGetCommand@2
+    inputs:
+      restoreSolution: "$(solution)"
+
+  - task: PowerShell@2
+    displayName: "Set Version"
+    inputs:
+      targetType: "inline"
+      script: |
+        $pattern = '\[assembly: AssemblyFileVersion\("(.*)"\)\]'
+           $AssemblyFiles = Get-ChildItem . GlobalAssemblyInfo.cs 
+           $splitVersion = $Env:BUILD_BUILDNUMBER -split '\.'
+           $buildVersion = "{0:####'.'##'.'##}" -f [int]$splitVersion[0] + '.' + $splitVersion[1]
+           
+           foreach ($file in $AssemblyFiles)
+           {
+               (Get-Content $file.PSPath) | ForEach-Object{
+                   if($_ -match $pattern){
+                        '[assembly: AssemblyFileVersion("{0}")]' -f $buildVersion 
+                   }else {
+                        $_
+                   }
+               } | Set-Content -Encoding UTF8 -Path $file.PSPath
+           }
+           
+           Write-Host "Setting version to: $buildVersion"
+      workingDirectory: "$(Build.SourcesDirectory)"
+
+  # Restore all nuget packages and .net core tools
+  - task: DotNetCoreCLI@2
+    displayName: "dotnet restore"
+    inputs:
+      command: "custom"
+      projects: "$(solution)"
+      custom: "restore"
+
+  # Build projects
+  - task: DotNetCoreCLI@2
+    displayName: "dotnet build"
+    inputs:
+      command: "build"
+      projects: "$(solution)"
+
+  # Run your custom PowerShell script
+  - powershell: |
+      $scriptPath = "$(System.DefaultWorkingDirectory)/PipelineScripts/BuildAndRelease.ps1"
+      $outputDirectory = "$(outputDirectory)"
+      $projectRelativePath = "$(projectRelativePath)"
+      Invoke-Expression -Command "$scriptPath -outputDirectory $outputDirectory -projectRelativePath $projectRelativePath"     
+
+
+  - task: ArchiveFiles@2
+    inputs:
+      rootFolderOrFile: "$(outputDevDirectory)"
+      includeRootFolder: false
+      archiveType: "zip"
+      archiveFile: "$(Build.ArtifactStagingDirectory)/noteconverter_Dev_v14.zip"
+      replaceExistingArchive: true
+
+  - task: ArchiveFiles@2
+    inputs:
+      rootFolderOrFile: "$(outputTestDirectory)"
+      includeRootFolder: false
+      archiveType: "zip"
+      archiveFile: "$(Build.ArtifactStagingDirectory)/noteconverter_Test_v14.zip"
+      replaceExistingArchive: true
+
+  - task: ArchiveFiles@2
+    inputs:
+      rootFolderOrFile: "$(outputStageDirectory)"
+      includeRootFolder: false
+      archiveType: "zip"
+      archiveFile: "$(Build.ArtifactStagingDirectory)/noteconverter_Stage_v14.zip"
+      replaceExistingArchive: true
+
+  - task: ArchiveFiles@2
+    inputs:
+      rootFolderOrFile: "$(outputProdDirectory)"
+      includeRootFolder: false
+      archiveType: "zip"
+      archiveFile: "$(Build.ArtifactStagingDirectory)/noteconverter_Prod_v14.zip"
+      replaceExistingArchive: true
+
+  - task: PublishBuildArtifacts@1
+    displayName: "Publish Artifact"
+    inputs:
+      PathtoPublish: "$(Build.ArtifactStagingDirectory)"
+      ArtifactName: "drop"
+    condition: succeededOrFailed()
