@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+<resheader name="resmimetype"><value>text/microsoft-resx</value></resheader><resheader name="version"><value>1.3</value></resheader><resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><data name="ABOUT_TERMS" xml:space="preserve"><value>Ehdot</value></data>
+  <data name="ONE_SIDED" xml:space="preserve"><value>Yksipuolinen</value></data>
+  <data name="SDE_11_X_173" xml:space="preserve"><value>11 x 17"</value></data>
+  <data name="SDE_1SIDED" xml:space="preserve"><value>Yksipuolinen</value></data>
+  <data name="SDE_1SIDED1" xml:space="preserve"><value>Yksipuolinen</value></data>
+  <data name="SDE_2SIDED" xml:space="preserve"><value>Kaksipuolinen</value></data>
+  <data name="SDE_2SIDED_ROTATE_SIDE" xml:space="preserve"><value>Kaksipuolinen, kierrä puolta 2</value></data>
+  <data name="SDE_2SIDED_SCANNING" xml:space="preserve"><value>Kaksipuolinen skannaus</value></data>
+  <data name="SDE_55_X_72" xml:space="preserve"><value>5,5 x 7"</value></data>
+  <data name="SDE_55_X_854" xml:space="preserve"><value>5,5 x 8,5"</value></data>
+  <data name="SDE_85_X_114" xml:space="preserve"><value>8,5 x 11"</value></data>
+  <data name="SDE_85_X_134" xml:space="preserve"><value>8,5 x 13"</value></data>
+  <data name="SDE_85_X_143" xml:space="preserve"><value>8,5 x 14"</value></data>
+  <data name="SDE_A31" xml:space="preserve"><value>A3</value></data>
+  <data name="SDE_A41" xml:space="preserve"><value>A4</value></data>
+  <data name="SDE_A51" xml:space="preserve"><value>A5</value></data>
+  <data name="SDE_ACCESS_DENIED1" xml:space="preserve"><value>Käyttö estetty.</value></data>
+  <data name="SDE_ACCOUNT_DETAILS" xml:space="preserve"><value>Tilin tiedot</value></data>
+  <data name="SDE_ACCOUNT_INVITATION" xml:space="preserve"><value>Tilin kutsu</value></data>
+  <data name="SDE_ACCOUNT_SUSPENDED" xml:space="preserve"><value>Tämä tili on keskeytetty.</value></data>
+  <data name="SDE_ADMINISTRATOR_ACCOUNT" xml:space="preserve"><value>Järjestelmänvalvojan tili</value></data>
+  <data name="SDE_ADMINISTRATOR_ACCOUNT_ALREADY" xml:space="preserve"><value>Järjestelmänvalvojan tili on jo olemassa.</value></data>
+  <data name="SDE_ADMINISTRATOR_ACCOUNT_CREATED" xml:space="preserve"><value>Järjestelmänvalvojan tili on luotu.</value></data>
+  <data name="SDE_ADMINISTRATOR_ACCOUNT_SETUP" xml:space="preserve"><value>Järjestelmänvalvojan tilin asetukset</value></data>
+  <data name="SDE_ALL_SUBACCOUNTS_ASSOCIATED" xml:space="preserve"><value>Myös kaikki tiliisi liittyvät alitilit poistetaan.</value></data>
+  <data name="SDE_APP_CANNOT_CONNECT" xml:space="preserve"><value>Sovellus ei saa yhteyttä verkkoon.</value></data>
+  <data name="SDE_APP_UNAVAILABLE_TIME" xml:space="preserve"><value>Sovellusta ei voi käyttää nyt.</value></data>
+  <data name="SDE_AUDIO_DOCUMENTS_ACCOUNT1" xml:space="preserve"><value>Audio Documents -tilisi on luotu.</value></data>
+  <data name="SDE_AUDIO_DOCUMENTS_RESET" xml:space="preserve"><value>Audioasiakirjat-sovellus on nollattu.</value></data>
+  <data name="SDE_AUTO_DETECT" xml:space="preserve"><value>Autom. havaitseminen</value></data>
+  <data name="SDE_B4" xml:space="preserve"><value>B4</value></data>
+  <data name="SDE_B5" xml:space="preserve"><value>B5</value></data>
+  <data name="SDE_BALANCE" xml:space="preserve"><value>Saldo</value></data>
+  <data name="SDE_BALANCE1" xml:space="preserve"><value>Saldo</value></data>
+  <data name="SDE_BY_CREATING_ACCOUNT" xml:space="preserve"><value>Luomalla tilin hyväksyt sivuston</value></data>
+  <data name="SDE_CANCEL" xml:space="preserve"><value>Peruuta</value></data>
+  <data name="SDE_CHANGE_EMAIL" xml:space="preserve"><value>Muuta sähköpostiosoite</value></data>
+  <data name="SDE_CHANGE_PASSWORD" xml:space="preserve"><value>Vaihda salasana</value></data>
+  <data name="SDE_CHARACTERS_CANNOT_BE" xml:space="preserve"><value>Näitä merkkejä ei voi käyttää: {0}</value></data>
+  <data name="SDE_CHECK_DEVICES_NETWORK" xml:space="preserve"><value>Tarkista laitteen verkkoyhteys. Mikäli virhe ei poistu, ota yhteyttä järjestelmänvalvojaan.</value></data>
+  <data name="SDE_CLICK_LINK_BELOW" xml:space="preserve"><value>Lataa tiedostosi napsauttamalla alla olevaa linkkiä.</value></data>
+  <data name="SDE_CLOSE" xml:space="preserve"><value>Sulje</value></data>
+  <data name="SDE_CLOSE2" xml:space="preserve"><value>Sulje</value></data>
+  <data name="SDE_COMPLETE_ACCOUNT_SETUP" xml:space="preserve"><value>Viimeistele tilin luonti</value></data>
+  <data name="SDE_COMPLETE_SETUP" xml:space="preserve"><value>Asennus valmis</value></data>
+  <data name="SDE_CONFIRM_DELETE_ACCOUNT4" xml:space="preserve"><value>Haluatko varmasti poistaa tilisi?</value></data>
+  <data name="SDE_CONFIRM_DELETE_ACCOUNTS" xml:space="preserve"><value>Haluatko varmasti poistaa valitut tilit?</value></data>
+  <data name="SDE_CONFIRM_EMAIL1" xml:space="preserve"><value>Vahvista sähköposti</value></data>
+  <data name="SDE_CONFIRM_LOG_OUT2" xml:space="preserve"><value>Haluatko varmasti kirjautua ulos Audio Documents -sovelluksesta?</value></data>
+  <data name="SDE_CONFIRM_LOG_OUT3" xml:space="preserve"><value>Haluatko varmasti kirjautua ulos Xerox Note Converter -sovelluksesta?</value></data>
+  <data name="SDE_CONFIRM_NEW_PASSWORD" xml:space="preserve"><value>Vahvista uusi salasana</value></data>
+  <data name="SDE_CONFIRM_PASSWORD" xml:space="preserve"><value>Vahvista salasana</value></data>
+  <data name="SDE_CONTACT_ADMINISTRATOR_ASSISTANCE" xml:space="preserve"><value>Pyydä ohjeita järjestelmänvalvojaltasi.</value></data>
+  <data name="SDE_CONTACT_DEVICE_ADMINISTRATOR" xml:space="preserve"><value>Ota yhteys laitteen järjestelmänvalvojaan palveluiden käyttöä varten.</value></data>
+  <data name="SDE_CONTINUE" xml:space="preserve"><value>Jatka</value></data>
+  <data name="SDE_CONVERSION_ERROR" xml:space="preserve"><value>Muunnosvirhe</value></data>
+  <data name="SDE_COPYRIGHT_FMTSTR_XEROX" xml:space="preserve"><value>Copyright © {0} Xerox Corporation. Kaikki oikeudet pidätetään.</value></data>
+  <data name="SDE_CREATE_ACCOUNT2" xml:space="preserve"><value>Luo tili</value></data>
+  <data name="SDE_CREATE_ADMINISTRATOR_ACCOUNT1" xml:space="preserve"><value>Luo järjestelmänvalvojan tili</value></data>
+  <data name="SDE_CREATE_MY_ACCOUNT" xml:space="preserve"><value> Luo oma tili</value></data>
+  <data name="SDE_CURRENTLY_HAVE_NO2" xml:space="preserve"><value>Sinulla ei ole alitilejä</value></data>
+  <data name="SDE_DEAR_FMTSTR" xml:space="preserve"><value>Hyvä {0},</value></data>
+  <data name="SDE_DELETE" xml:space="preserve"><value>Poista</value></data>
+  <data name="SDE_DELETED" xml:space="preserve"><value>Poistettu</value></data>
+  <data name="SDE_DOCUMENT_CONVERSION_ERROR" xml:space="preserve"><value>Asiakirjan muunnosvirhe</value></data>
+  <data name="SDE_DOCUMENT_SUCCESSFULLY_SCANNED" xml:space="preserve"><value>Asiakirjan skannaus onnistui.</value></data>
+  <data name="SDE_DONE" xml:space="preserve"><value>Valmis</value></data>
+  <data name="SDE_DOWNLOAD_AVAILABLE" xml:space="preserve"><value>Lataus saatavilla</value></data>
+  <data name="SDE_EMAIL_ADDRESS_ENTERED6" xml:space="preserve"><value>Antamasi sähköpostiosoite on jo liitetty järjestelmänvalvojan tilin/tilauksen pakettiin.</value></data>
+  <data name="SDE_EMAIL_ADDRESS_ENTERED7" xml:space="preserve"><value>Antamasi sähköpostiosoite liittyy toiseen tiliin.</value></data>
+  <data name="SDE_EMAIL_ADDRESS6" xml:space="preserve"><value>Sähköpostiosoite</value></data>
+  <data name="SDE_EMAIL_ADDRESSES_DO1" xml:space="preserve"><value>Annetut sähköpostiosoitteet eivät täsmää.</value></data>
+  <data name="SDE_EMAIL_ANDOR_PASSWORD" xml:space="preserve"><value>S-postiosoite ja/tai salasana on virheellinen</value></data>
+  <data name="SDE_EMAIL_ANDOR_PASSWORD1" xml:space="preserve"><value>S-postiosoite ja/tai salasana on virheellinen.</value></data>
+  <data name="SDE_EMAIL_NOT_FOUND" xml:space="preserve"><value>S-postia ei löydy. Tarkista oikeinkirjoitus ja yritä uudelleen.</value></data>
+  <data name="SDE_EMAIL_NOT_VALID" xml:space="preserve"><value>Sähköpostiosoitteen muoto on virheellinen.</value></data>
+  <data name="SDE_EMAIL_SENT_FOLLOWING" xml:space="preserve"><value>Seuraavaan osoitteeseen on lähetetty sähköpostiviesti, jossa on ohjeet tilin viimeistelyä varten.</value></data>
+  <data name="SDE_EMAIL_VERIFICATION_REQUIRED" xml:space="preserve"><value>Sähköpostiosoitteen vahvistus tarvitaan.</value></data>
+  <data name="SDE_EMAIL_VERIFIED_SELECT" xml:space="preserve"><value>Sähköpostiosoite on vahvistettu. Valitse Jatka.</value></data>
+  <data name="SDE_EMAIL2" xml:space="preserve"><value>Sähköposti</value></data>
+  <data name="SDE_ENTER_DIFFERENT_EMAIL1" xml:space="preserve"><value>Anna jokin muu sähköpostiosoite.</value></data>
+  <data name="SDE_ENTER_DIFFERENT_PRODUCT" xml:space="preserve"><value>Anna jokin muu tuoteavain.</value></data>
+  <data name="SDE_ENTER_EMAIL" xml:space="preserve"><value>Anna s-posti</value></data>
+  <data name="SDE_ENTER_EMAIL_ADDRESS13" xml:space="preserve"><value>Anna kelvollinen sähköpostiosoite.</value></data>
+  <data name="SDE_ENTER_EMAIL_ADDRESS20" xml:space="preserve"><value>Anna sähköpostiosoite</value></data>
+  <data name="SDE_ENTER_EMAIL_RECEIVE1" xml:space="preserve"><value>Anna sähköpostiosoite, jotta voit vastaanottaa tekstitiedoston</value></data>
+  <data name="SDE_ENTER_FILE_NAME1" xml:space="preserve"><value>Anna tiedoston nimi</value></data>
+  <data name="SDE_ENTER_PASSWORD_2" xml:space="preserve"><value>Anna salasana</value></data>
+  <data name="SDE_ENTER_PASSWORD2" xml:space="preserve"><value>Anna salasana</value></data>
+  <data name="SDE_ENTER_PASSWORD3" xml:space="preserve"><value>Anna salasana</value></data>
+  <data name="SDE_ENTER_TCP_PORT1" xml:space="preserve"><value>Anna kelvollinen TCP-portti ja DNS-nimi.</value></data>
+  <data name="SDE_ERROR" xml:space="preserve"><value>Virhe</value></data>
+  <data name="SDE_ERROR_OCCURRED" xml:space="preserve"><value>On tapahtunut virhe.</value></data>
+  <data name="SDE_FILE_NAME" xml:space="preserve"><value>Tiedoston nimi</value></data>
+  <data name="SDE_FIRST_NAME" xml:space="preserve"><value>Etunimi</value></data>
+  <data name="SDE_FMTSTR_DATE_TIMEFMTSTR" xml:space="preserve"><value>{0} [Päivämäärä ja aika].{1}</value></data>
+  <data name="SDE_FMTSTR_FMTSTR_INVITED1" xml:space="preserve"><value>{1} {2} on kutsunut sinut luomaan Xerox® Note Converter -tilin. Luo tili napsauttamalla alla olevaa painiketta. Jos haluat lisätietoja tästä kutsusta, lähetä viesti osoitteeseen {3}.</value></data>
+  <data name="SDE_FMTSTR_PAGES" xml:space="preserve"><value>{0} Sivut</value></data>
+  <data name="SDE_FMTSTR_PAGES_WERE" xml:space="preserve"><value>{0} sivua  muunnettiin äänimuotoon kielellä {1}.</value></data>
+  <data name="SDE_FMTSTR_PAGES_WERE1" xml:space="preserve"><value>{0} sivua muunnettiin tekstimuotoon. Muunnettu tekstitiedosto on liitteenä.</value></data>
+  <data name="SDE_FMTSTRFMTSTR_XEROX_CORPORATION2" xml:space="preserve"><value>© {0} Xerox Corporation. Kaikki oikeudet pidätetään.</value></data>
+  <data name="SDE_FORGOT_PASSWORD3" xml:space="preserve"><value>Unohditko salasanan?</value></data>
+  <data name="SDE_FORGOT_PASSWORD4" xml:space="preserve"><value>Unohditko salasanan</value></data>
+  <data name="SDE_GO_XEROX_APP" xml:space="preserve"><value>Siirry Xerox App Gallery -sivustoon uutta tilausta varten.</value></data>
+  <data name="SDE_HAVE_USED_ALL" xml:space="preserve"><value>Olet käyttänyt kaikki sivujen skannauksesi.</value></data>
+  <data name="SDE_HAVE_USED_ALL3" xml:space="preserve"><value>Olet käyttänyt kaikki kokeilusivut tai kokeilujakso on päättynyt. Siirry Xerox App Gallery -sivustoon tilausta varten.</value></data>
+  <data name="SDE_HERE" xml:space="preserve"><value>täällä</value></data>
+  <data name="SDE_I_UNDERSTAND" xml:space="preserve"><value>Ymmärrän.</value></data>
+  <data name="SDE_IF_ALREADY_HAVE" xml:space="preserve"><value>Jos sinulla on jo Xerox® Note Converter -tili, kirjaudu sisään</value></data>
+  <data name="SDE_IF_DO_NOT8" xml:space="preserve"><value>Jos et saa viestiä muutaman minuutin kuluessa, tarkista roskaposti-kansiosi. Varmista tulevien sähköpostiviestien saapuminen määrittämällä viesti arvolla Ei roskapostia.</value></data>
+  <data name="SDE_IF_PROBLEM_PERSISTS3" xml:space="preserve"><value>Jos ongelma ei poistu, ota yhteyttä Xerox-tukeen.</value></data>
+  <data name="SDE_IF_PROBLEM_PERSISTS4" xml:space="preserve"><value>Jos ongelma ei poistu, ota yhteyttä Xerox-tukeen.</value></data>
+  <data name="SDE_INPUT_SCAN_SIZE" xml:space="preserve"><value>Skannauksen syöttökokoa ei määritetty</value></data>
+  <data name="SDE_INVITE" xml:space="preserve"><value>Kutsu</value></data>
+  <data name="SDE_INVITED" xml:space="preserve"><value>Kutsuttu</value></data>
+  <data name="SDE_JOB_CANCELED1" xml:space="preserve"><value>Työ on peruutettu.</value></data>
+  <data name="SDE_JOB_ID" xml:space="preserve"><value>Työn tunnus</value></data>
+  <data name="SDE_JOB_MANAGEMENT_EXTENSION" xml:space="preserve"><value>Työnhallinnan laajennos</value></data>
+  <data name="SDE_JOB_TIMED_OUT" xml:space="preserve"><value>Työssä ilmeni aikakatkaisu</value></data>
+  <data name="SDE_LAST_NAME" xml:space="preserve"><value>Sukunimi</value></data>
+  <data name="SDE_LINK_AUDIO_FILE1" xml:space="preserve"><value>Audiotiedoston linkki vanhenee {0} tai {1} latauksen jälkeen. Lataa paikallinen kopio audiotiedostosta, ennen kuin linkki vanhenee.</value></data>
+  <data name="SDE_LOADING" xml:space="preserve"><value>Ladataan...</value></data>
+  <data name="SDE_LOG_IN" xml:space="preserve"><value>Kirjaudu sisään</value></data>
+  <data name="SDE_LOG_OUT" xml:space="preserve"><value>Kirjaudu ulos</value></data>
+  <data name="SDE_LOG_WRITTEN_NOTE" xml:space="preserve"><value>Kirjaudu Xerox Note Converter -tilillesi.</value></data>
+  <data name="SDE_LOGIN_WRITTEN_NOTE" xml:space="preserve"><value>Kirjaudu Xerox Note Converter -tilillesi.</value></data>
+  <data name="SDE_LOGIN_XEROX_ACTIVE" xml:space="preserve"><value>Kirjaudu Xerox® Active Directoryn avulla</value></data>
+  <data name="SDE_MANAGE_MY_ACCOUNT" xml:space="preserve"><value>Oman tilin hallinta</value></data>
+  <data name="SDE_MANAGE_SUBACCOUNTS" xml:space="preserve"><value>Alitilien hallinta</value></data>
+  <data name="SDE_MAXIMUM_FILE_SIZE9" xml:space="preserve"><value>Tiedoston enimmäiskoko ylittyi</value></data>
+  <data name="SDE_MAXIMUM_PAGES_PER" xml:space="preserve"><value>Sivujen enimmäismäärä työtä kohti</value></data>
+  <data name="SDE_MORE" xml:space="preserve"><value>Lisää</value></data>
+  <data name="SDE_NAME" xml:space="preserve"><value>Nimi</value></data>
+  <data name="SDE_NEW_PASSWORD" xml:space="preserve"><value>Uusi salasana</value></data>
+  <data name="SDE_NO_PAGES_WERE" xml:space="preserve"><value>Tililtäsi ei vähennetty yhtään sivua tämän työn osalta.</value></data>
+  <data name="SDE_OK" xml:space="preserve"><value>OK</value></data>
+  <data name="SDE_ORIGINAL_NOT_DETECTED" xml:space="preserve"><value>Originaalia ei havaittu.</value></data>
+  <data name="SDE_ORIGINAL_SIZE" xml:space="preserve"><value>Alkuperäinen koko</value></data>
+  <data name="SDE_PASSWORD" xml:space="preserve"><value>Salasana</value></data>
+  <data name="SDE_PASSWORD_FORMAT_INVALID" xml:space="preserve"><value>Salasanan muoto on virheellinen.</value></data>
+  <data name="SDE_PASSWORD_MINIMUM_8" xml:space="preserve"><value>Salasanan tulee olla vähintään 8 merkin pituinen ja sen tulee sisältää vähintään yksi iso kirjain, yksi pieni kirjain ja yksi symboli.</value></data>
+  <data name="SDE_PASSWORD_NOT_VALID1" xml:space="preserve"><value>Salasanan muoto on virheellinen.</value></data>
+  <data name="SDE_PASSWORD_RESET" xml:space="preserve"><value>Salasanan nollaaminen</value></data>
+  <data name="SDE_PASSWORD_RESET_INSTRUCTIONS1" xml:space="preserve"><value>Salasanan nollausohjeet on lähetetty.</value></data>
+  <data name="SDE_PASSWORDS_DO_NOT2" xml:space="preserve"><value>Salasanat eivät täsmää.</value></data>
+  <data name="SDE_PASSWORDS_MUST_BE2" xml:space="preserve"><value>Salasanan tulee olla vähintään 8 merkin pituinen ja sisältää vähintään kolme seuraavista: isoja kirjaimia, pieniä kirjaimia, numeroita ja symboleita.</value></data>
+  <data name="SDE_PLACE_ORIGINAL_FEEDER" xml:space="preserve"><value>Aseta originaali lasille ja yritä uudelleen.</value></data>
+  <data name="SDE_PLEASE_CHECK_DOCUMENT" xml:space="preserve"><value>Tarkista asiakirja ja yritä skannata uudelleen.</value></data>
+  <data name="SDE_PLEASE_CREATE_ADMINISTRATOR" xml:space="preserve"><value>Aloita sovelluksen käyttö luomalla järjestelmänvalvojan tili.</value></data>
+  <data name="SDE_PLEASE_LOG_IN1" xml:space="preserve"><value>Kirjaudu sisään.</value></data>
+  <data name="SDE_PLEASE_RESCAN_DOCUMENT" xml:space="preserve"><value>Skannaa asiakirja uudelleen ja yritä uudelleen.</value></data>
+  <data name="SDE_PLEASE_RESTART_DEVICE" xml:space="preserve"><value>Käynnistä laite uudelleen ja yritä uudelleen. Jos ongelma ei poistu, ota yhteyttä Xerox-tukeen.</value></data>
+  <data name="SDE_PLEASE_RESTART_DEVICE1" xml:space="preserve"><value>Käynnistä laite uudelleen ja yritä uudelleen.</value></data>
+  <data name="SDE_PLEASE_TRY_AGAIN1" xml:space="preserve"><value>Yritä uudelleen.</value></data>
+  <data name="SDE_PLEASE_TRY_AGAIN2" xml:space="preserve"><value>Yritä uudelleen myöhemmin.</value></data>
+  <data name="SDE_PLEASE_TRY_AGAIN6" xml:space="preserve"><value>Yritä uudelleen myöhemmin. Jos ongelma ei poistu, ota yhteyttä Xerox-tukeen.</value></data>
+  <data name="SDE_PLEASE_TRY_AGAIN9" xml:space="preserve"><value>Yritä uudelleen. Jos ongelma ei poistu, ota yhteyttä Xerox-tukeen.</value></data>
+  <data name="SDE_PLEASE_TRY_AGAINIF" xml:space="preserve"><value>Yritä uudelleen.&lt;br/&gt;Jos ongelma ei poistu, ota yhteyttä Xerox-tukeen.</value></data>
+  <data name="SDE_PLEASE_USE_DIFFERENT" xml:space="preserve"><value>Luo uusi järjestelmänvalvojan tili käyttämällä jotain muuta sähköpostiosoitetta.</value></data>
+  <data name="SDE_PRIVACY" xml:space="preserve"><value>Tietosuoja</value></data>
+  <data name="SDE_PRIVACY_STATEMENT" xml:space="preserve"><value>Tietosuojalauseke</value></data>
+  <data name="SDE_PROCESSING1" xml:space="preserve"><value>Käsitellään...</value></data>
+  <data name="SDE_PRODUCT_KEY_ALREADY" xml:space="preserve"><value>Tällä tuoteavaimella on jo aktivoitu tilaus.</value></data>
+  <data name="SDE_RECENTLY_MADE_REQUEST" xml:space="preserve"><value>Lähetit äskettäin pyynnön {0} -tilisi salasanasi nollaamiseksi. Aseta uusi salasana painamalla alla olevaa painiketta.</value></data>
+  <data name="SDE_RECENTLY_MADE_REQUEST2" xml:space="preserve"><value>Lähetit äskettäin pyynnön Xerox® Note Converter -salasanasi nollaamiseksi. Aseta uusi salasana painamalla alla olevaa painiketta.</value></data>
+  <data name="SDE_REMOVE" xml:space="preserve"><value>Poista</value></data>
+  <data name="SDE_RENEW_PURCHASE_SUBSCRIPTION1" xml:space="preserve"><value>Palauta käyttöoikeus uusimalla tai ostamalla tilaus.</value></data>
+  <data name="SDE_REQUIRED_FIELD1" xml:space="preserve"><value>Tämä kenttä on pakollinen.</value></data>
+  <data name="SDE_RESEND" xml:space="preserve"><value>Lähetä uudelleen</value></data>
+  <data name="SDE_RESET" xml:space="preserve"><value>Nollaa</value></data>
+  <data name="SDE_RESET_PASSWORD" xml:space="preserve"><value>Nollaa salasana</value></data>
+  <data name="SDE_SAVE" xml:space="preserve"><value>Tallenna</value></data>
+  <data name="SDE_SAVED" xml:space="preserve"><value>Tallennettu</value></data>
+  <data name="SDE_SCAN" xml:space="preserve"><value>Skannaus</value></data>
+  <data name="SDE_SCAN_EXTENSION" xml:space="preserve"><value>Skannauslaajennos</value></data>
+  <data name="SDE_SCAN_EXTENSION_SCAN1" xml:space="preserve"><value>Skannauslaajennos &lt;/br&gt; Skannausmallin hallinta &lt;/br&gt; Työnhallinnan laajennos&lt;div style='padding-top:10px;'&gt;Ota yhteys laitteen järjestelmänvalvojaan palveluiden käyttöä varten.&lt;/div&gt;</value></data>
+  <data name="SDE_SCAN_TEMPLATE_MANAGEMENT1" xml:space="preserve"><value>Skannausmallin hallinta</value></data>
+  <data name="SDE_SCANNING1" xml:space="preserve"><value>Skannaa...</value></data>
+  <data name="SDE_SEND_NEW_CODE" xml:space="preserve"><value>Lähetä uusikoodi</value></data>
+  <data name="SDE_SEND_REQUEST" xml:space="preserve"><value>Lähetä pyyntö</value></data>
+  <data name="SDE_SEND_VERIFICATION_CODE" xml:space="preserve"><value>Lähetä vahvistuskoodi</value></data>
+  <data name="SDE_STATUS" xml:space="preserve"><value>Tila</value></data>
+  <data name="SDE_SUBSCRIPTION_ACCESS_XEROX2" xml:space="preserve"><value>Xerox Note Converter -palvelun käyttöoikeuden tilaus on vanhentunut.</value></data>
+  <data name="SDE_SUPPLIES_OK" xml:space="preserve"><value>OK</value></data>
+  <data name="SDE_SUPPORT" xml:space="preserve"><value>Tuki</value></data>
+  <data name="SDE_THANK_USING_WRITTEN" xml:space="preserve"><value>Kiitos Xerox Note Converter -sovelluksen käytöstä</value></data>
+  <data name="SDE_THANK_USING_WRITTEN1" xml:space="preserve"><value>Kiitos Xerox Note Converter -sovelluksen käytöstä.</value></data>
+  <data name="SDE_THANK_USING_XEROX" xml:space="preserve"><value>Kiitos Audio Documentsin käytöstä.</value></data>
+  <data name="SDE_THANK_YOU" xml:space="preserve"><value>Kiitos!</value></data>
+  <data name="SDE_TO_REMOVE_ACCOUNT" xml:space="preserve"><value>Tilisi poistamiseksi sinun on ensiksi tehtävä toisesta käyttäjästä järjestelmänvalvoja.</value></data>
+  <data name="SDE_TO_REQUEST_NEW4" xml:space="preserve"><value>Pyydä uusi salasana antamalla sähköpostiosoitteesi, joka on liitetty Xerox Audio Documents -tiliisi.</value></data>
+  <data name="SDE_TO_REQUEST_NEW5" xml:space="preserve"><value>Pyydä uusi salasana antamalla sähköpostiosoitteesi, joka on liitetty Xerox Note Converter -tiliisi.</value></data>
+  <data name="SDE_TO_REQUEST_NEW6" xml:space="preserve"><value>Pyydä uusi salasana antamalla sähköpostiosoitteesi, joka on liitetty Xerox Note Converter -tiliisi.</value></data>
+  <data name="SDE_TO_USE_APP" xml:space="preserve"><value>Tämän sovelluksen käyttöä varten on seuraavien palveluiden oltava käytössä.</value></data>
+  <data name="SDE_UNABLE_LOG_WRITTEN" xml:space="preserve"><value>Kirjautuminen Xerox Note Converter -sovellukseen epäonnistui.</value></data>
+  <data name="SDE_UNMONITORED_EMAIL_ADDRESS" xml:space="preserve"><value>Tätä sähköpostiosoitetta ei tarkkailla. Älä vastaa tähän viestiin. Valitse tukilinkki alla apua varten</value></data>
+  <data name="SDE_UPDATED" xml:space="preserve"><value>Päivitetty</value></data>
+  <data name="SDE_USER_MEMBER_ANOTHER" xml:space="preserve"><value>Tämä käyttäjä on jäsenenä toisessa tilauksessa.</value></data>
+  <data name="SDE_VERIFICATION_CODE" xml:space="preserve"><value>Vahvistuskoodi</value></data>
+  <data name="SDE_VERIFICATION_CODE_SENT1" xml:space="preserve"><value>Vahvistuskoodi on lähetetty.</value></data>
+  <data name="SDE_VERIFY_CODE" xml:space="preserve"><value>Vahvista koodi</value></data>
+  <data name="SDE_WE_WERE_UNABLE3" xml:space="preserve"><value>Seuraavan tilin poisto epäonnistui.</value></data>
+  <data name="SDE_WE_WERE_UNABLE5" xml:space="preserve"><value>Asiakirjojasi ei voitu muuntaa tekstitiedostoksi.</value></data>
+  <data name="SDE_WE_WERE_UNABLE6" xml:space="preserve"><value>Ei havaittu yhtään tekstimuuntoon soveltuvaa sivua.</value></data>
+  <data name="SDE_WILL_RECEIVE_EMAIL1" xml:space="preserve"><value>{0} Lähettää sinulle sähköpostiviestin, jossa on linkki audiotiedostoosi.</value></data>
+  <data name="SDE_WILL_RECEIVE_EMAIL2" xml:space="preserve"><value>{0} lähettää sinulle sähköpostiviestin, jossa on tekstitiedostosi.</value></data>
+  <data name="SDE_WRITTEN_NOTE_CONVERSION" xml:space="preserve"><value>Xerox Note Converter -kirjautuminen</value></data>
+  <data name="SDE_WRITTEN_NOTE_CONVERSION1" xml:space="preserve"><value>Xerox Note Converter -tilisi on luotu.</value></data>
+  <data name="SDE_WRITTEN_NOTE_CONVERSION2" xml:space="preserve"><value>Xerox Note Converter -tilisi on päivitetty.</value></data>
+  <data name="SDE_WRITTEN_NOTE_CONVERSION3" xml:space="preserve"><value>Xerox Note Converter -portaali ei ole käytettävissä.</value></data>
+  <data name="SDE_WRITTEN_NOTE_CONVERSION4" xml:space="preserve"><value>Xerox Note Converter</value></data>
+  <data name="SDE_WRITTEN_NOTE_CONVERSION5" xml:space="preserve"><value>Xerox Note Converter on nollattu.</value></data>
+  <data name="SDE_WRITTEN_NOTE_CONVERSION6" xml:space="preserve"><value>Xerox Note Converter -sovellusta ei ole konfiguroitu oikein.</value></data>
+  <data name="SDE_WRITTEN_NOTE_CONVERSION7" xml:space="preserve"><value>Xerox Note Converter -sovellus ei saa yhteyttä verkkoon.</value></data>
+  <data name="SDE_WRITTEN_NOTE_CONVERSION8" xml:space="preserve"><value>Xerox Note Converter -sovellusta ei nyt voi käyttää.</value></data>
+  <data name="SDE_WRITTEN_NOTE_CONVERSION9" xml:space="preserve"><value>Xerox Note Converter -työsi ylitti sivujen sallitun enimmäismäärän. Vähennä sivujen määräksi enintään {0}. Huomaa, että kokoa 8.5 x 11" tai A4 suurempi lasketaan 2 sivuksi. Tililtäsi ei vähennetty yhtään sivua tämän työn osalta.</value></data>
+  <data name="SDE_XEROX_AUDIO_DOCUMENTS" xml:space="preserve"><value>Audioasiakirjat</value></data>
+  <data name="SDE_XEROX_AUDIO_DOCUMENTS5" xml:space="preserve"><value>Xerox Audio Documents -järjestelmänvalvojatilisi on luotu.  Viimeistele tilin luonti napsauttamalla alla olevaa painiketta.</value></data>
+  <data name="SDE_XEROX_PRIVACY_STATEMENT" xml:space="preserve"><value>Xeroxin tietosuojalauseke</value></data>
+  <data name="SDE_XEROX_SCAN" xml:space="preserve"><value>Xerox skannaus</value></data>
+  <data name="SDE_XEROX_WRITTEN_NOTE" xml:space="preserve"><value>Xerox Note Converter -järjestelmänvalvojatilisi on luotu.  Viimeistele tilin luonti napsauttamalla alla olevaa painiketta.</value></data>
+  <data name="SDE_XEROX_WRITTEN_NOTE1" xml:space="preserve"><value>Xerox® Note Converter -salasanan nollauspyyntö</value></data>
+  <data name="SDE_XEROX_WRITTEN_NOTE2" xml:space="preserve"><value>Xerox® Note Converter -tilin kutsu</value></data>
+  <data name="TWO_SIDED" xml:space="preserve"><value>Kaksipuolinen</value></data>
+  </root>

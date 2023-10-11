@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+<resheader name="resmimetype"><value>text/microsoft-resx</value></resheader><resheader name="version"><value>1.3</value></resheader><resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><data name="ABOUT_TERMS" xml:space="preserve"><value>Conditions</value></data>
+  <data name="ONE_SIDED" xml:space="preserve"><value>Recto</value></data>
+  <data name="SDE_11_X_173" xml:space="preserve"><value>11" x 17"</value></data>
+  <data name="SDE_1SIDED" xml:space="preserve"><value>Recto</value></data>
+  <data name="SDE_1SIDED1" xml:space="preserve"><value>Recto</value></data>
+  <data name="SDE_2SIDED" xml:space="preserve"><value>Recto verso</value></data>
+  <data name="SDE_2SIDED_ROTATE_SIDE" xml:space="preserve"><value>Recto verso, tourner la face 2</value></data>
+  <data name="SDE_2SIDED_SCANNING" xml:space="preserve"><value>Numérisation recto verso</value></data>
+  <data name="SDE_55_X_72" xml:space="preserve"><value>5,5" x 7"</value></data>
+  <data name="SDE_55_X_854" xml:space="preserve"><value>5,5" x 8,5"</value></data>
+  <data name="SDE_85_X_114" xml:space="preserve"><value>8,5" x 11"</value></data>
+  <data name="SDE_85_X_134" xml:space="preserve"><value>8,5" x 13"</value></data>
+  <data name="SDE_85_X_143" xml:space="preserve"><value>8,5" x 14"</value></data>
+  <data name="SDE_A31" xml:space="preserve"><value>A3</value></data>
+  <data name="SDE_A41" xml:space="preserve"><value>A4</value></data>
+  <data name="SDE_A51" xml:space="preserve"><value>A5</value></data>
+  <data name="SDE_ACCESS_DENIED1" xml:space="preserve"><value>Accès refusé.</value></data>
+  <data name="SDE_ACCOUNT_DETAILS" xml:space="preserve"><value>Détails du compte</value></data>
+  <data name="SDE_ACCOUNT_INVITATION" xml:space="preserve"><value>Invitation pour la création d'un compte</value></data>
+  <data name="SDE_ACCOUNT_SUSPENDED" xml:space="preserve"><value>Ce compte a été suspendu.</value></data>
+  <data name="SDE_ADMINISTRATOR_ACCOUNT" xml:space="preserve"><value>Compte d’administrateur</value></data>
+  <data name="SDE_ADMINISTRATOR_ACCOUNT_ALREADY" xml:space="preserve"><value>Le compe d’administrateur existe déjà.</value></data>
+  <data name="SDE_ADMINISTRATOR_ACCOUNT_CREATED" xml:space="preserve"><value>Compte d’administrateur créé.</value></data>
+  <data name="SDE_ADMINISTRATOR_ACCOUNT_SETUP" xml:space="preserve"><value>Configuration du compte d’administrateur</value></data>
+  <data name="SDE_ALL_SUBACCOUNTS_ASSOCIATED" xml:space="preserve"><value>Tous les sous-comptes associés à votre compte seront eux aussi supprimés.</value></data>
+  <data name="SDE_APP_CANNOT_CONNECT" xml:space="preserve"><value>L’application ne parvient pas à se connecter au réseau.</value></data>
+  <data name="SDE_APP_UNAVAILABLE_TIME" xml:space="preserve"><value>L’application est indisponible pour l’instant.</value></data>
+  <data name="SDE_AUDIO_DOCUMENTS_ACCOUNT1" xml:space="preserve"><value>Votre compte Audio Documents a été créé.</value></data>
+  <data name="SDE_AUDIO_DOCUMENTS_RESET" xml:space="preserve"><value>L'application Audio Documents a été réinitialisée.</value></data>
+  <data name="SDE_AUTO_DETECT" xml:space="preserve"><value>Détection auto</value></data>
+  <data name="SDE_B4" xml:space="preserve"><value>B4</value></data>
+  <data name="SDE_B5" xml:space="preserve"><value>B5</value></data>
+  <data name="SDE_BALANCE" xml:space="preserve"><value>Solde</value></data>
+  <data name="SDE_BALANCE1" xml:space="preserve"><value>Solde</value></data>
+  <data name="SDE_BY_CREATING_ACCOUNT" xml:space="preserve"><value>En créant un compte, vous consentez au site</value></data>
+  <data name="SDE_CANCEL" xml:space="preserve"><value>Annuler</value></data>
+  <data name="SDE_CHANGE_EMAIL" xml:space="preserve"><value>Changer d’adresse e-mail</value></data>
+  <data name="SDE_CHANGE_PASSWORD" xml:space="preserve"><value>Changer de mot de passe</value></data>
+  <data name="SDE_CHARACTERS_CANNOT_BE" xml:space="preserve"><value>Les caractères suivants ne peuvent pas être utilisés : {0}</value></data>
+  <data name="SDE_CHECK_DEVICES_NETWORK" xml:space="preserve"><value>Vérifiez la connexion réseau de votre appareil. Si le problème persiste, contactez votre administrateur système.</value></data>
+  <data name="SDE_CLICK_LINK_BELOW" xml:space="preserve"><value>Cliquez sur le lien ci-dessous pour télécharger votre fichier.</value></data>
+  <data name="SDE_CLOSE" xml:space="preserve"><value>Fermer</value></data>
+  <data name="SDE_CLOSE2" xml:space="preserve"><value>Fermer</value></data>
+  <data name="SDE_COMPLETE_ACCOUNT_SETUP" xml:space="preserve"><value>Terminer la configuration du compte</value></data>
+  <data name="SDE_COMPLETE_SETUP" xml:space="preserve"><value>Terminer l'installation</value></data>
+  <data name="SDE_CONFIRM_DELETE_ACCOUNT4" xml:space="preserve"><value>Voulez-vous vraiment supprimer votre compte ?</value></data>
+  <data name="SDE_CONFIRM_DELETE_ACCOUNTS" xml:space="preserve"><value>Voulez-vous vraiment supprimer les comptes sélectionnés ?</value></data>
+  <data name="SDE_CONFIRM_EMAIL1" xml:space="preserve"><value>Confirmer l’adresse email</value></data>
+  <data name="SDE_CONFIRM_LOG_OUT2" xml:space="preserve"><value>Voulez-vous vraiment vous déconnecter d’Audio Documents ?</value></data>
+  <data name="SDE_CONFIRM_LOG_OUT3" xml:space="preserve"><value>Voulez-vous vraiment vous déconnecter de Xerox Note Converter ?</value></data>
+  <data name="SDE_CONFIRM_NEW_PASSWORD" xml:space="preserve"><value>Confirmer le nouveau mot de passe</value></data>
+  <data name="SDE_CONFIRM_PASSWORD" xml:space="preserve"><value>Confirmer le mot de passe</value></data>
+  <data name="SDE_CONTACT_ADMINISTRATOR_ASSISTANCE" xml:space="preserve"><value>Contactez votre administrateur pour obtenir de l'aide.</value></data>
+  <data name="SDE_CONTACT_DEVICE_ADMINISTRATOR" xml:space="preserve"><value>Contactez l'administrateur de votre périphérique et demandez qu'il active ces services.</value></data>
+  <data name="SDE_CONTINUE" xml:space="preserve"><value>Continuer</value></data>
+  <data name="SDE_CONVERSION_ERROR" xml:space="preserve"><value>Erreur lors de la conversion</value></data>
+  <data name="SDE_COPYRIGHT_FMTSTR_XEROX" xml:space="preserve"><value>Copyright © {0} Xerox Corporation. Tous droits réservés.</value></data>
+  <data name="SDE_CREATE_ACCOUNT2" xml:space="preserve"><value>Créer un compte</value></data>
+  <data name="SDE_CREATE_ADMINISTRATOR_ACCOUNT1" xml:space="preserve"><value>Créer un compte d'administrateur</value></data>
+  <data name="SDE_CREATE_MY_ACCOUNT" xml:space="preserve"><value>Créer mon compte</value></data>
+  <data name="SDE_CURRENTLY_HAVE_NO2" xml:space="preserve"><value>Pour l’instant, vous n'avez pas de sous-comptes</value></data>
+  <data name="SDE_DEAR_FMTSTR" xml:space="preserve"><value>Cher/Chère {0},</value></data>
+  <data name="SDE_DELETE" xml:space="preserve"><value>Supprimer</value></data>
+  <data name="SDE_DELETED" xml:space="preserve"><value>Supprimé(e)s</value></data>
+  <data name="SDE_DOCUMENT_CONVERSION_ERROR" xml:space="preserve"><value>Erreur lors de la conversion du document</value></data>
+  <data name="SDE_DOCUMENT_SUCCESSFULLY_SCANNED" xml:space="preserve"><value>Numérisation du document réussie.</value></data>
+  <data name="SDE_DONE" xml:space="preserve"><value>Terminé</value></data>
+  <data name="SDE_DOWNLOAD_AVAILABLE" xml:space="preserve"><value>Téléchargement disponible</value></data>
+  <data name="SDE_EMAIL_ADDRESS_ENTERED6" xml:space="preserve"><value>L’adresse e-mail que vous avez saisie est déjà associée à un compte d’administrateur et/ou une offre d’abonnement</value></data>
+  <data name="SDE_EMAIL_ADDRESS_ENTERED7" xml:space="preserve"><value>L’adresse e-mail que vous avez saisie est associée à une autre compte</value></data>
+  <data name="SDE_EMAIL_ADDRESS6" xml:space="preserve"><value>Adresse électronique</value></data>
+  <data name="SDE_EMAIL_ADDRESSES_DO1" xml:space="preserve"><value>Les adresses e-mail ne correspondent pas.</value></data>
+  <data name="SDE_EMAIL_ANDOR_PASSWORD" xml:space="preserve"><value>Email et/ou mot de passe incorrects.</value></data>
+  <data name="SDE_EMAIL_ANDOR_PASSWORD1" xml:space="preserve"><value>Adresse e-mail et/ou mot de passe incorrects.</value></data>
+  <data name="SDE_EMAIL_NOT_FOUND" xml:space="preserve"><value>Adresse e-mail introuvable. Vérifiez l'orthographe et réessayez.</value></data>
+  <data name="SDE_EMAIL_NOT_VALID" xml:space="preserve"><value>Le format de l'email n'est pas valable.</value></data>
+  <data name="SDE_EMAIL_SENT_FOLLOWING" xml:space="preserve"><value>Un message a été envoyé à l’adresse suivante, accompagné des instructions pour effectuer la configuration du compte.</value></data>
+  <data name="SDE_EMAIL_VERIFICATION_REQUIRED" xml:space="preserve"><value>L’adresse e-mail est requise.</value></data>
+  <data name="SDE_EMAIL_VERIFIED_SELECT" xml:space="preserve"><value>L’adresse e-mail est vérifiée. Sélectionnez Continuer.</value></data>
+  <data name="SDE_EMAIL2" xml:space="preserve"><value>E-mail</value></data>
+  <data name="SDE_ENTER_DIFFERENT_EMAIL1" xml:space="preserve"><value>Saisissez une autre adresse e-mail</value></data>
+  <data name="SDE_ENTER_DIFFERENT_PRODUCT" xml:space="preserve"><value>Saisissez une autre clé de produit.</value></data>
+  <data name="SDE_ENTER_EMAIL" xml:space="preserve"><value>Saisir une adresse email</value></data>
+  <data name="SDE_ENTER_EMAIL_ADDRESS13" xml:space="preserve"><value>Entrer une adresse électronique valide.</value></data>
+  <data name="SDE_ENTER_EMAIL_ADDRESS20" xml:space="preserve"><value>Saisissez une adresse e-mail</value></data>
+  <data name="SDE_ENTER_EMAIL_RECEIVE1" xml:space="preserve"><value>Saisir une adresse e-mail pour recevoir le fichier texte</value></data>
+  <data name="SDE_ENTER_FILE_NAME1" xml:space="preserve"><value>Saisissez le nom de fichier</value></data>
+  <data name="SDE_ENTER_PASSWORD_2" xml:space="preserve"><value>Saisissez le mot de passe</value></data>
+  <data name="SDE_ENTER_PASSWORD2" xml:space="preserve"><value>Saisir le mot de passe</value></data>
+  <data name="SDE_ENTER_PASSWORD3" xml:space="preserve"><value>Saisissez un mot de passe</value></data>
+  <data name="SDE_ENTER_TCP_PORT1" xml:space="preserve"><value>Saisissez un port TCP et un nom DNS valides.</value></data>
+  <data name="SDE_ERROR" xml:space="preserve"><value>Erreur</value></data>
+  <data name="SDE_ERROR_OCCURRED" xml:space="preserve"><value>Une erreur s'est produite.</value></data>
+  <data name="SDE_FILE_NAME" xml:space="preserve"><value>Nom du fichier</value></data>
+  <data name="SDE_FIRST_NAME" xml:space="preserve"><value>Prénom</value></data>
+  <data name="SDE_FMTSTR_DATE_TIMEFMTSTR" xml:space="preserve"><value>{0} [Date et heure].{1}</value></data>
+  <data name="SDE_FMTSTR_FMTSTR_INVITED1" xml:space="preserve"><value>{1} {2} vous a invité à créer un compte Xerox® Note Converter. Cliquez sur le bouton ci-dessous pour créer votre compte. Pour toute question à propos de cette invitation, adressez-vous à {3}.</value></data>
+  <data name="SDE_FMTSTR_PAGES" xml:space="preserve"><value>{0} Pages</value></data>
+  <data name="SDE_FMTSTR_PAGES_WERE" xml:space="preserve"><value>{0} page(s) a/ont été correctement convertie(s) en version audio dans {1}.</value></data>
+  <data name="SDE_FMTSTR_PAGES_WERE1" xml:space="preserve"><value>{0} page(s) a/ont été correctement convertie(s) au format texte. Votre fichier texte converti est joint.</value></data>
+  <data name="SDE_FMTSTRFMTSTR_XEROX_CORPORATION2" xml:space="preserve"><value>© {0} Xerox Corporation. Tous droits réservés.</value></data>
+  <data name="SDE_FORGOT_PASSWORD3" xml:space="preserve"><value>Mot de passe oublié ?</value></data>
+  <data name="SDE_FORGOT_PASSWORD4" xml:space="preserve"><value>Mot de passe oublié</value></data>
+  <data name="SDE_GO_XEROX_APP" xml:space="preserve"><value>Accédez à Xerox App Gallery pour acheter un nouvel abonnement.</value></data>
+  <data name="SDE_HAVE_USED_ALL" xml:space="preserve"><value>Vous avez utilisé toutes vos numérisations de page.</value></data>
+  <data name="SDE_HAVE_USED_ALL3" xml:space="preserve"><value>Vous avez utilisé la totalité des pages de la version d’évaluation, ou la période d'essai est arrivée à son terme. Accédez à Xerox App Gallery pour acheter un abonnement.</value></data>
+  <data name="SDE_HERE" xml:space="preserve"><value>ici</value></data>
+  <data name="SDE_I_UNDERSTAND" xml:space="preserve"><value>Je comprends.</value></data>
+  <data name="SDE_IF_ALREADY_HAVE" xml:space="preserve"><value>Si vous possédez déjà un compte Xerox® Note Converter, connectez-vous.</value></data>
+  <data name="SDE_IF_DO_NOT8" xml:space="preserve"><value>Si vous ne recevez pas un message d'ici quelques minutes, vérifiez votre dossier Courrier indésirable. Pour garantir la réception de messages à l'avenir, précisez que le message est un 'Courrier légitime'.</value></data>
+  <data name="SDE_IF_PROBLEM_PERSISTS3" xml:space="preserve"><value>Si le problème persiste, contactez l'assistance de Xerox.</value></data>
+  <data name="SDE_IF_PROBLEM_PERSISTS4" xml:space="preserve"><value>Si le problème persiste, contactez l'assistance de Xerox.</value></data>
+  <data name="SDE_INPUT_SCAN_SIZE" xml:space="preserve"><value>Format de numérisation d'entrée non déterminé.</value></data>
+  <data name="SDE_INVITE" xml:space="preserve"><value>Inviter</value></data>
+  <data name="SDE_INVITED" xml:space="preserve"><value>Invité</value></data>
+  <data name="SDE_JOB_CANCELED1" xml:space="preserve"><value>Le travail a été annulé.</value></data>
+  <data name="SDE_JOB_ID" xml:space="preserve"><value>ID du travail</value></data>
+  <data name="SDE_JOB_MANAGEMENT_EXTENSION" xml:space="preserve"><value>Extension de gestion des travaux</value></data>
+  <data name="SDE_JOB_TIMED_OUT" xml:space="preserve"><value>Délai d'attente du travail dépassé</value></data>
+  <data name="SDE_LAST_NAME" xml:space="preserve"><value>Nom de famille</value></data>
+  <data name="SDE_LINK_AUDIO_FILE1" xml:space="preserve"><value>Le lien vers votre fichier audio expirera le {0} ou après {1} téléchargements. N'oubliez pas de télécharger une copie locale de votre fichier audio avant l'expiration du lien.</value></data>
+  <data name="SDE_LOADING" xml:space="preserve"><value>Chargement...</value></data>
+  <data name="SDE_LOG_IN" xml:space="preserve"><value>Connexion</value></data>
+  <data name="SDE_LOG_OUT" xml:space="preserve"><value>Déconnexion</value></data>
+  <data name="SDE_LOG_WRITTEN_NOTE" xml:space="preserve"><value>Connectez-vous à votre compte Xerox Note Converter.</value></data>
+  <data name="SDE_LOGIN_WRITTEN_NOTE" xml:space="preserve"><value>Connectez-vous à votre compte Xerox Note Converter.</value></data>
+  <data name="SDE_LOGIN_XEROX_ACTIVE" xml:space="preserve"><value>Connexion avec Xerox® Active Directory</value></data>
+  <data name="SDE_MANAGE_MY_ACCOUNT" xml:space="preserve"><value>Gérer mon compte</value></data>
+  <data name="SDE_MANAGE_SUBACCOUNTS" xml:space="preserve"><value>Gérer les sous-comptes</value></data>
+  <data name="SDE_MAXIMUM_FILE_SIZE9" xml:space="preserve"><value>Taille de fichier maximale dépassée</value></data>
+  <data name="SDE_MAXIMUM_PAGES_PER" xml:space="preserve"><value>Nombre maximum de pages par travail</value></data>
+  <data name="SDE_MORE" xml:space="preserve"><value>Autre</value></data>
+  <data name="SDE_NAME" xml:space="preserve"><value>Nom</value></data>
+  <data name="SDE_NEW_PASSWORD" xml:space="preserve"><value>Nouveau mot de passe</value></data>
+  <data name="SDE_NO_PAGES_WERE" xml:space="preserve"><value>Aucune page n'a été prélevée sur votre compte pour ce travail.</value></data>
+  <data name="SDE_OK" xml:space="preserve"><value>OK</value></data>
+  <data name="SDE_ORIGINAL_NOT_DETECTED" xml:space="preserve"><value>Original non détecté.</value></data>
+  <data name="SDE_ORIGINAL_SIZE" xml:space="preserve"><value>Taille d'origine</value></data>
+  <data name="SDE_PASSWORD" xml:space="preserve"><value>Mot de passe</value></data>
+  <data name="SDE_PASSWORD_FORMAT_INVALID" xml:space="preserve"><value>Format du mot de passe non valide.</value></data>
+  <data name="SDE_PASSWORD_MINIMUM_8" xml:space="preserve"><value>Le mot de passe doit faire un minimum de 8 caractères et contenir au moins une lettre majuscule, une lettre minuscule et un symbole.</value></data>
+  <data name="SDE_PASSWORD_NOT_VALID1" xml:space="preserve"><value>Le format du mot de passe n'est pas valable.</value></data>
+  <data name="SDE_PASSWORD_RESET" xml:space="preserve"><value>Réinitialisation du mot de passe</value></data>
+  <data name="SDE_PASSWORD_RESET_INSTRUCTIONS1" xml:space="preserve"><value>Des instructions pour réinitialiser votre mot de passe ont été envoyées.</value></data>
+  <data name="SDE_PASSWORDS_DO_NOT2" xml:space="preserve"><value>Les mots de passe ne correspondent pas.</value></data>
+  <data name="SDE_PASSWORDS_MUST_BE2" xml:space="preserve"><value>Les mots de passe doivent faire 8 caractères de long minimum, et contenir au moins trois des éléments suivants : lettres majuscules, lettres minuscules, chiffres et symboles.</value></data>
+  <data name="SDE_PLACE_ORIGINAL_FEEDER" xml:space="preserve"><value>Mettez l'original dans le chargeur ou sur la vitre, et réessayez.</value></data>
+  <data name="SDE_PLEASE_CHECK_DOCUMENT" xml:space="preserve"><value>Vérifiez votre document, renumérisez et réessayez.</value></data>
+  <data name="SDE_PLEASE_CREATE_ADMINISTRATOR" xml:space="preserve"><value>Veuillez créer un compte d’administrateur pour commencer d’utiliser cette application.</value></data>
+  <data name="SDE_PLEASE_LOG_IN1" xml:space="preserve"><value>Connectez-vous.</value></data>
+  <data name="SDE_PLEASE_RESCAN_DOCUMENT" xml:space="preserve"><value>Veuillez renumériser votre document et réessayez.</value></data>
+  <data name="SDE_PLEASE_RESTART_DEVICE" xml:space="preserve"><value>Redémarrez le périphérique, et réessayez. Si le problème persiste, contactez l'assistance de Xerox</value></data>
+  <data name="SDE_PLEASE_RESTART_DEVICE1" xml:space="preserve"><value>Redémarrez le périphérique, et réessayez.</value></data>
+  <data name="SDE_PLEASE_TRY_AGAIN1" xml:space="preserve"><value>Essayer de nouveau.</value></data>
+  <data name="SDE_PLEASE_TRY_AGAIN2" xml:space="preserve"><value>Réessayez ultérieurement.</value></data>
+  <data name="SDE_PLEASE_TRY_AGAIN6" xml:space="preserve"><value>Réessayez plus tard. Si le problème persiste, contactez l'assistance de Xerox.</value></data>
+  <data name="SDE_PLEASE_TRY_AGAIN9" xml:space="preserve"><value>Veuillez réessayer. Si le problème persiste, contactez l'assistance de Xerox.</value></data>
+  <data name="SDE_PLEASE_TRY_AGAINIF" xml:space="preserve"><value>Veuillez réessayer.&lt;br/&gt;Si le problème persiste, contactez l'assistance de Xerox.</value></data>
+  <data name="SDE_PLEASE_USE_DIFFERENT" xml:space="preserve"><value>Utilisez une autre adresse e-mail pour créer un nouveau compte d’administrateur.</value></data>
+  <data name="SDE_PRIVACY" xml:space="preserve"><value>Confidentialité</value></data>
+  <data name="SDE_PRIVACY_STATEMENT" xml:space="preserve"><value>Déclaration de confidentialité</value></data>
+  <data name="SDE_PROCESSING1" xml:space="preserve"><value>Traitement en cours…</value></data>
+  <data name="SDE_PRODUCT_KEY_ALREADY" xml:space="preserve"><value>Cette clé de produit a déjà servi à activer un abonnement.</value></data>
+  <data name="SDE_RECENTLY_MADE_REQUEST" xml:space="preserve"><value>Vous avez récemment envoyé une demande de réinitialisation de votre mot de passe de compte {0}. Veuillez définir un nouveau mot de passe en sélectionnant le bouton ci-dessous.</value></data>
+  <data name="SDE_RECENTLY_MADE_REQUEST2" xml:space="preserve"><value>Vous avez récemment envoyé une demande de réinitialisation de votre mot de passe Xerox® Note Converter. Veuillez définir un nouveau mot de passe en sélectionnant le bouton ci-dessous.</value></data>
+  <data name="SDE_REMOVE" xml:space="preserve"><value>Supprimer</value></data>
+  <data name="SDE_RENEW_PURCHASE_SUBSCRIPTION1" xml:space="preserve"><value>Renouvelez ou achetez un abonnement si vous souhaitez rétablir l’accès</value></data>
+  <data name="SDE_REQUIRED_FIELD1" xml:space="preserve"><value>Ce champ est obligatoire.</value></data>
+  <data name="SDE_RESEND" xml:space="preserve"><value>Renvoyer</value></data>
+  <data name="SDE_RESET" xml:space="preserve"><value>Réinitialiser</value></data>
+  <data name="SDE_RESET_PASSWORD" xml:space="preserve"><value>Réinitialiser le mot de passe</value></data>
+  <data name="SDE_SAVE" xml:space="preserve"><value>Sauvegarder</value></data>
+  <data name="SDE_SAVED" xml:space="preserve"><value>Enregistrés</value></data>
+  <data name="SDE_SCAN" xml:space="preserve"><value>Numérisation</value></data>
+  <data name="SDE_SCAN_EXTENSION" xml:space="preserve"><value>Extension de numérisation</value></data>
+  <data name="SDE_SCAN_EXTENSION_SCAN1" xml:space="preserve"><value>Extension de numérisation &lt;/br&gt; Gestion des modèles de numérisation &lt;/br&gt;Extension de gestion des travaux&lt;div style='padding-top:10px;'&gt;Contactez l'administrateur de votre périphérique et demandez qu'il active ces services.&lt;/div&gt;</value></data>
+  <data name="SDE_SCAN_TEMPLATE_MANAGEMENT1" xml:space="preserve"><value>Gestion des modèles de numérisation</value></data>
+  <data name="SDE_SCANNING1" xml:space="preserve"><value>Numérisation en cours...</value></data>
+  <data name="SDE_SEND_NEW_CODE" xml:space="preserve"><value>Envoyer un nouveau code</value></data>
+  <data name="SDE_SEND_REQUEST" xml:space="preserve"><value>Envoyer la demande</value></data>
+  <data name="SDE_SEND_VERIFICATION_CODE" xml:space="preserve"><value>Envoi d’un code de vérification</value></data>
+  <data name="SDE_STATUS" xml:space="preserve"><value>État</value></data>
+  <data name="SDE_SUBSCRIPTION_ACCESS_XEROX2" xml:space="preserve"><value>L'abonnement pour accéder à Xerox Note Converter a expiré.</value></data>
+  <data name="SDE_SUPPLIES_OK" xml:space="preserve"><value>OK</value></data>
+  <data name="SDE_SUPPORT" xml:space="preserve"><value>Support</value></data>
+  <data name="SDE_THANK_USING_WRITTEN" xml:space="preserve"><value>Merci d'utiliser Xerox Note Converter</value></data>
+  <data name="SDE_THANK_USING_WRITTEN1" xml:space="preserve"><value>Merci d'utiliser Xerox Note Converter.</value></data>
+  <data name="SDE_THANK_USING_XEROX" xml:space="preserve"><value>Merci d’utiliser Audio Documents.</value></data>
+  <data name="SDE_THANK_YOU" xml:space="preserve"><value>Merci !</value></data>
+  <data name="SDE_TO_REMOVE_ACCOUNT" xml:space="preserve"><value>Pour supprimer votre compte, vous devez d’abord désigner un autre administrateur.</value></data>
+  <data name="SDE_TO_REQUEST_NEW4" xml:space="preserve"><value>Pour demander un nouveau mot de passe, saisissez l'adresse e-mail associée à votre compte Xerox Audio Documents.</value></data>
+  <data name="SDE_TO_REQUEST_NEW5" xml:space="preserve"><value>Pour demander un nouveau mot de passe, saisissez l'adresse e-mail associée à votre compte Xerox Note Converter.</value></data>
+  <data name="SDE_TO_REQUEST_NEW6" xml:space="preserve"><value>Pour demander un nouveau mot de passe, saisissez l’adresse e-mail associée à votre compte Xerox Note Converter.</value></data>
+  <data name="SDE_TO_USE_APP" xml:space="preserve"><value>Pour utiliser cette application, vous devez activer le(s) service(s) Web suivant(s).</value></data>
+  <data name="SDE_UNABLE_LOG_WRITTEN" xml:space="preserve"><value>Connexion à Xerox Note Converter impossible.</value></data>
+  <data name="SDE_UNMONITORED_EMAIL_ADDRESS" xml:space="preserve"><value>Cette adresse e-mail n'est pas contrôlée. Merci de ne pas répondre à ce message. Sélectionnez le lien Assistance ci-dessous pour de l'aide</value></data>
+  <data name="SDE_UPDATED" xml:space="preserve"><value>Mis à jour</value></data>
+  <data name="SDE_USER_MEMBER_ANOTHER" xml:space="preserve"><value>Cet utilisateur est membre d’un autre abonnement.</value></data>
+  <data name="SDE_VERIFICATION_CODE" xml:space="preserve"><value>Code de vérification</value></data>
+  <data name="SDE_VERIFICATION_CODE_SENT1" xml:space="preserve"><value>Le code de vérification a été envoyé.</value></data>
+  <data name="SDE_VERIFY_CODE" xml:space="preserve"><value>Vérifier le code</value></data>
+  <data name="SDE_WE_WERE_UNABLE3" xml:space="preserve"><value>Nous n’avons pas pu supprimer le compte suivant.</value></data>
+  <data name="SDE_WE_WERE_UNABLE5" xml:space="preserve"><value>Nous n'avons pas pu convertir vos documents en fichier texte.</value></data>
+  <data name="SDE_WE_WERE_UNABLE6" xml:space="preserve"><value>Impossible de détecter des pages pouvant se prêter à une conversion au format texte.</value></data>
+  <data name="SDE_WILL_RECEIVE_EMAIL1" xml:space="preserve"><value>Vous recevrez un mail de {0} contenant un lien vers votre fichier audio.</value></data>
+  <data name="SDE_WILL_RECEIVE_EMAIL2" xml:space="preserve"><value>Vous recevrez de {0} un mail contenant votre fichier texte.</value></data>
+  <data name="SDE_WRITTEN_NOTE_CONVERSION" xml:space="preserve"><value>Connexion à Xerox Note Converter</value></data>
+  <data name="SDE_WRITTEN_NOTE_CONVERSION1" xml:space="preserve"><value>Votre compte Xerox Note Converter a été créé.</value></data>
+  <data name="SDE_WRITTEN_NOTE_CONVERSION2" xml:space="preserve"><value>Votre compte Xerox Note Converter a été mis à jour.</value></data>
+  <data name="SDE_WRITTEN_NOTE_CONVERSION3" xml:space="preserve"><value>Le portail Xerox Note Converter est indisponible.</value></data>
+  <data name="SDE_WRITTEN_NOTE_CONVERSION4" xml:space="preserve"><value>Xerox Note Converter</value></data>
+  <data name="SDE_WRITTEN_NOTE_CONVERSION5" xml:space="preserve"><value>L’application Xerox Note Converter a été réinitialisée.</value></data>
+  <data name="SDE_WRITTEN_NOTE_CONVERSION6" xml:space="preserve"><value>L’application Xerox Note Converter est mal configurée.</value></data>
+  <data name="SDE_WRITTEN_NOTE_CONVERSION7" xml:space="preserve"><value>L’application Xerox Note Converter ne parvient pas à se connecter au réseau.</value></data>
+  <data name="SDE_WRITTEN_NOTE_CONVERSION8" xml:space="preserve"><value>L’application Xerox Note Converter est indisponible pour l’instant.</value></data>
+  <data name="SDE_WRITTEN_NOTE_CONVERSION9" xml:space="preserve"><value>Votre travail Xerox Note Converter a dépassé le nombre maximum de pages autorisé. Réduisez le nombre de pages à {0} ou moins. À noter que tout document au-delà du format 8,5 x 11" ou A4 équivaut à 2 pages. Aucune page n'a été prélevée sur votre compte pour ce travail.</value></data>
+  <data name="SDE_XEROX_AUDIO_DOCUMENTS" xml:space="preserve"><value>Audio Documents</value></data>
+  <data name="SDE_XEROX_AUDIO_DOCUMENTS5" xml:space="preserve"><value>Votre compte d’administrateur Xerox Audio Documents a été créé.  Cliquez sur le bouton ci-dessous pour terminer la configuration de votre compte.</value></data>
+  <data name="SDE_XEROX_PRIVACY_STATEMENT" xml:space="preserve"><value>Déclaration de confidentialité de Xerox</value></data>
+  <data name="SDE_XEROX_SCAN" xml:space="preserve"><value>Numérisation Xerox</value></data>
+  <data name="SDE_XEROX_WRITTEN_NOTE" xml:space="preserve"><value>Votre compte d’administrateur Xerox Note Converter a été créé.  Cliquez sur le bouton ci-dessous pour terminer la configuration de votre compte.</value></data>
+  <data name="SDE_XEROX_WRITTEN_NOTE1" xml:space="preserve"><value>Votre demande de réinitialisation de mot de passe Xerox® Note Converter</value></data>
+  <data name="SDE_XEROX_WRITTEN_NOTE2" xml:space="preserve"><value>Invitation pour un compte Xerox® Note Converter</value></data>
+  <data name="TWO_SIDED" xml:space="preserve"><value>Recto verso</value></data>
+  </root>

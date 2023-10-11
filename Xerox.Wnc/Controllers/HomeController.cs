@@ -31,6 +31,7 @@ namespace Xerox.Wnc.Web.Controllers
         {
             try
             {
+
              
                 if (!String.IsNullOrEmpty(lang))
                 {

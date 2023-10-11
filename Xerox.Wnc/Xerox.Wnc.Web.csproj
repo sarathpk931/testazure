@@ -51,17 +51,16 @@
     <Folder Include="wwwroot\" />
   </ItemGroup>
 
-
-  <ItemGroup>
-    <ProjectReference Include="..\Xerox.Wnc.Resources\Xerox.Wnc.Resources.csproj" />
-  </ItemGroup>
-
 	<ItemGroup>
 		<!-- Remove the original appsettings.json and include the specific environment appsettings file -->
 		<Content Remove="appsettings.*.json" />
 		<Content Include="web.config" CopyToOutputDirectory="PreserveNewest" />
 		<Content Include="appsettings.$(Environment).json" CopyToOutputDirectory="PreserveNewest" />
 		
+	</ItemGroup>
+
+	<ItemGroup>
+	  <ProjectReference Include="..\Xerox.Wnc.Resources\Xerox.Wnc.Resources.csproj" />
 	</ItemGroup>
 
 	<Target Name="RenameAppsettings" AfterTargets="Publish">

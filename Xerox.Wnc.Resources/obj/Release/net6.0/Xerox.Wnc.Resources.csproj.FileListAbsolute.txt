@@ -1,0 +1,142 @@
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\bin\Release\net6.0\Xerox.Wnc.Resources.deps.json
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\bin\Release\net6.0\Xerox.Wnc.Resources.dll
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\bin\Release\net6.0\Xerox.Wnc.Resources.pdb
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\bin\Release\net6.0\ca\Xerox.Wnc.Resources.resources.dll
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\bin\Release\net6.0\cs\Xerox.Wnc.Resources.resources.dll
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\bin\Release\net6.0\da\Xerox.Wnc.Resources.resources.dll
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\bin\Release\net6.0\de\Xerox.Wnc.Resources.resources.dll
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\bin\Release\net6.0\el\Xerox.Wnc.Resources.resources.dll
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\bin\Release\net6.0\es\Xerox.Wnc.Resources.resources.dll
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\bin\Release\net6.0\fi\Xerox.Wnc.Resources.resources.dll
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\bin\Release\net6.0\fr\Xerox.Wnc.Resources.resources.dll
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\bin\Release\net6.0\hu\Xerox.Wnc.Resources.resources.dll
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\bin\Release\net6.0\it\Xerox.Wnc.Resources.resources.dll
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\bin\Release\net6.0\nl\Xerox.Wnc.Resources.resources.dll
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\bin\Release\net6.0\no\Xerox.Wnc.Resources.resources.dll
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\bin\Release\net6.0\pl\Xerox.Wnc.Resources.resources.dll
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\bin\Release\net6.0\pt\Xerox.Wnc.Resources.resources.dll
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\bin\Release\net6.0\ro\Xerox.Wnc.Resources.resources.dll
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\bin\Release\net6.0\ru\Xerox.Wnc.Resources.resources.dll
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\bin\Release\net6.0\sv\Xerox.Wnc.Resources.resources.dll
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\bin\Release\net6.0\tr\Xerox.Wnc.Resources.resources.dll
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\obj\Release\net6.0\Xerox.Wnc.Resources.csproj.AssemblyReference.cache
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\obj\Release\net6.0\Xerox.Wnc.Resources.Resources.AppsResource.resources
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\obj\Release\net6.0\Xerox.Wnc.Resources.Resources.AppsResource.ca.resources
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\obj\Release\net6.0\Xerox.Wnc.Resources.Resources.AppsResource.cs.resources
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\obj\Release\net6.0\Xerox.Wnc.Resources.Resources.AppsResource.da.resources
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\obj\Release\net6.0\Xerox.Wnc.Resources.Resources.AppsResource.de.resources
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\obj\Release\net6.0\Xerox.Wnc.Resources.Resources.AppsResource.el.resources
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\obj\Release\net6.0\Xerox.Wnc.Resources.Resources.AppsResource.es.resources
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\obj\Release\net6.0\Xerox.Wnc.Resources.Resources.AppsResource.fi.resources
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\obj\Release\net6.0\Xerox.Wnc.Resources.Resources.AppsResource.fr.resources
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\obj\Release\net6.0\Xerox.Wnc.Resources.Resources.AppsResource.hu.resources
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\obj\Release\net6.0\Xerox.Wnc.Resources.Resources.AppsResource.it.resources
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\obj\Release\net6.0\Xerox.Wnc.Resources.Resources.AppsResource.nl.resources
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\obj\Release\net6.0\Xerox.Wnc.Resources.Resources.AppsResource.no.resources
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\obj\Release\net6.0\Xerox.Wnc.Resources.Resources.AppsResource.pl.resources
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\obj\Release\net6.0\Xerox.Wnc.Resources.Resources.AppsResource.pt.resources
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\obj\Release\net6.0\Xerox.Wnc.Resources.Resources.AppsResource.ro.resources
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\obj\Release\net6.0\Xerox.Wnc.Resources.Resources.AppsResource.ru.resources
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\obj\Release\net6.0\Xerox.Wnc.Resources.Resources.AppsResource.sv.resources
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\obj\Release\net6.0\Xerox.Wnc.Resources.Resources.AppsResource.tr.resources
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\obj\Release\net6.0\Xerox.Wnc.Resources.csproj.GenerateResource.cache
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\obj\Release\net6.0\Xerox.Wnc.Resources.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\obj\Release\net6.0\Xerox.Wnc.Resources.AssemblyInfoInputs.cache
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\obj\Release\net6.0\Xerox.Wnc.Resources.AssemblyInfo.cs
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\obj\Release\net6.0\Xerox.Wnc.Resources.csproj.CoreCompileInputs.cache
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\obj\Release\net6.0\ca\Xerox.Wnc.Resources.resources.dll
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\obj\Release\net6.0\cs\Xerox.Wnc.Resources.resources.dll
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\obj\Release\net6.0\da\Xerox.Wnc.Resources.resources.dll
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\obj\Release\net6.0\de\Xerox.Wnc.Resources.resources.dll
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\obj\Release\net6.0\el\Xerox.Wnc.Resources.resources.dll
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\obj\Release\net6.0\es\Xerox.Wnc.Resources.resources.dll
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\obj\Release\net6.0\fi\Xerox.Wnc.Resources.resources.dll
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\obj\Release\net6.0\fr\Xerox.Wnc.Resources.resources.dll
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\obj\Release\net6.0\hu\Xerox.Wnc.Resources.resources.dll
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\obj\Release\net6.0\it\Xerox.Wnc.Resources.resources.dll
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\obj\Release\net6.0\nl\Xerox.Wnc.Resources.resources.dll
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\obj\Release\net6.0\no\Xerox.Wnc.Resources.resources.dll
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\obj\Release\net6.0\pl\Xerox.Wnc.Resources.resources.dll
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\obj\Release\net6.0\pt\Xerox.Wnc.Resources.resources.dll
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\obj\Release\net6.0\ro\Xerox.Wnc.Resources.resources.dll
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\obj\Release\net6.0\ru\Xerox.Wnc.Resources.resources.dll
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\obj\Release\net6.0\sv\Xerox.Wnc.Resources.resources.dll
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\obj\Release\net6.0\tr\Xerox.Wnc.Resources.resources.dll
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\obj\Release\net6.0\Xerox.Wnc.Resources.dll
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\obj\Release\net6.0\refint\Xerox.Wnc.Resources.dll
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\obj\Release\net6.0\Xerox.Wnc.Resources.pdb
+C:\Users\dwive\Desktop\XPP Note App\UI\HandOver Xerox\Xerox.Wnc.Resources\obj\Release\net6.0\ref\Xerox.Wnc.Resources.dll
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\bin\Release\net6.0\Xerox.Wnc.Resources.deps.json
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\bin\Release\net6.0\Xerox.Wnc.Resources.dll
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\bin\Release\net6.0\Xerox.Wnc.Resources.pdb
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\bin\Release\net6.0\ar\Xerox.Wnc.Resources.resources.dll
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\bin\Release\net6.0\ca\Xerox.Wnc.Resources.resources.dll
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\bin\Release\net6.0\cs\Xerox.Wnc.Resources.resources.dll
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\bin\Release\net6.0\da\Xerox.Wnc.Resources.resources.dll
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\bin\Release\net6.0\de\Xerox.Wnc.Resources.resources.dll
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\bin\Release\net6.0\el\Xerox.Wnc.Resources.resources.dll
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\bin\Release\net6.0\en-gb\Xerox.Wnc.Resources.resources.dll
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\bin\Release\net6.0\es\Xerox.Wnc.Resources.resources.dll
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\bin\Release\net6.0\fi\Xerox.Wnc.Resources.resources.dll
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\bin\Release\net6.0\fr\Xerox.Wnc.Resources.resources.dll
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\bin\Release\net6.0\hu\Xerox.Wnc.Resources.resources.dll
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\bin\Release\net6.0\it\Xerox.Wnc.Resources.resources.dll
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\bin\Release\net6.0\nl\Xerox.Wnc.Resources.resources.dll
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\bin\Release\net6.0\no\Xerox.Wnc.Resources.resources.dll
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\bin\Release\net6.0\pl\Xerox.Wnc.Resources.resources.dll
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\bin\Release\net6.0\pt\Xerox.Wnc.Resources.resources.dll
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\bin\Release\net6.0\ro\Xerox.Wnc.Resources.resources.dll
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\bin\Release\net6.0\ru\Xerox.Wnc.Resources.resources.dll
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\bin\Release\net6.0\sv\Xerox.Wnc.Resources.resources.dll
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\bin\Release\net6.0\tr\Xerox.Wnc.Resources.resources.dll
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\obj\Release\net6.0\Xerox.Wnc.Resources.csproj.AssemblyReference.cache
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\obj\Release\net6.0\Xerox.Wnc.Resources.Resources.AppsResource.resources
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\obj\Release\net6.0\Xerox.Wnc.Resources.Resources.AppsResource.ar.resources
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\obj\Release\net6.0\Xerox.Wnc.Resources.Resources.AppsResource.ca.resources
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\obj\Release\net6.0\Xerox.Wnc.Resources.Resources.AppsResource.cs.resources
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\obj\Release\net6.0\Xerox.Wnc.Resources.Resources.AppsResource.da.resources
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\obj\Release\net6.0\Xerox.Wnc.Resources.Resources.AppsResource.de.resources
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\obj\Release\net6.0\Xerox.Wnc.Resources.Resources.AppsResource.el.resources
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\obj\Release\net6.0\Xerox.Wnc.Resources.Resources.AppsResource.en-gb.resources
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\obj\Release\net6.0\Xerox.Wnc.Resources.Resources.AppsResource.es.resources
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\obj\Release\net6.0\Xerox.Wnc.Resources.Resources.AppsResource.fi.resources
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\obj\Release\net6.0\Xerox.Wnc.Resources.Resources.AppsResource.fr.resources
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\obj\Release\net6.0\Xerox.Wnc.Resources.Resources.AppsResource.hu.resources
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\obj\Release\net6.0\Xerox.Wnc.Resources.Resources.AppsResource.it.resources
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\obj\Release\net6.0\Xerox.Wnc.Resources.Resources.AppsResource.nl.resources
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\obj\Release\net6.0\Xerox.Wnc.Resources.Resources.AppsResource.no.resources
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\obj\Release\net6.0\Xerox.Wnc.Resources.Resources.AppsResource.pl.resources
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\obj\Release\net6.0\Xerox.Wnc.Resources.Resources.AppsResource.pt.resources
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\obj\Release\net6.0\Xerox.Wnc.Resources.Resources.AppsResource.ro.resources
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\obj\Release\net6.0\Xerox.Wnc.Resources.Resources.AppsResource.ru.resources
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\obj\Release\net6.0\Xerox.Wnc.Resources.Resources.AppsResource.sv.resources
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\obj\Release\net6.0\Xerox.Wnc.Resources.Resources.AppsResource.tr.resources
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\obj\Release\net6.0\Xerox.Wnc.Resources.csproj.GenerateResource.cache
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\obj\Release\net6.0\Xerox.Wnc.Resources.GeneratedMSBuildEditorConfig.editorconfig
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\obj\Release\net6.0\Xerox.Wnc.Resources.AssemblyInfoInputs.cache
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\obj\Release\net6.0\Xerox.Wnc.Resources.AssemblyInfo.cs
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\obj\Release\net6.0\Xerox.Wnc.Resources.csproj.CoreCompileInputs.cache
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\obj\Release\net6.0\ar\Xerox.Wnc.Resources.resources.dll
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\obj\Release\net6.0\ca\Xerox.Wnc.Resources.resources.dll
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\obj\Release\net6.0\cs\Xerox.Wnc.Resources.resources.dll
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\obj\Release\net6.0\da\Xerox.Wnc.Resources.resources.dll
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\obj\Release\net6.0\de\Xerox.Wnc.Resources.resources.dll
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\obj\Release\net6.0\el\Xerox.Wnc.Resources.resources.dll
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\obj\Release\net6.0\en-gb\Xerox.Wnc.Resources.resources.dll
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\obj\Release\net6.0\es\Xerox.Wnc.Resources.resources.dll
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\obj\Release\net6.0\fi\Xerox.Wnc.Resources.resources.dll
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\obj\Release\net6.0\fr\Xerox.Wnc.Resources.resources.dll
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\obj\Release\net6.0\hu\Xerox.Wnc.Resources.resources.dll
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\obj\Release\net6.0\it\Xerox.Wnc.Resources.resources.dll
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\obj\Release\net6.0\nl\Xerox.Wnc.Resources.resources.dll
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\obj\Release\net6.0\no\Xerox.Wnc.Resources.resources.dll
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\obj\Release\net6.0\pl\Xerox.Wnc.Resources.resources.dll
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\obj\Release\net6.0\pt\Xerox.Wnc.Resources.resources.dll
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\obj\Release\net6.0\ro\Xerox.Wnc.Resources.resources.dll
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\obj\Release\net6.0\ru\Xerox.Wnc.Resources.resources.dll
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\obj\Release\net6.0\sv\Xerox.Wnc.Resources.resources.dll
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\obj\Release\net6.0\tr\Xerox.Wnc.Resources.resources.dll
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\obj\Release\net6.0\Xerox.Wnc.Resources.dll
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\obj\Release\net6.0\refint\Xerox.Wnc.Resources.dll
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\obj\Release\net6.0\Xerox.Wnc.Resources.pdb
+C:\Windows\System32\config\systemprofile\Desktop\NoteGit\Xerox.Wnc.Resources\obj\Release\net6.0\ref\Xerox.Wnc.Resources.dll

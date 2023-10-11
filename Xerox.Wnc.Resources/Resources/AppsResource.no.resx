@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+<resheader name="resmimetype"><value>text/microsoft-resx</value></resheader><resheader name="version"><value>1.3</value></resheader><resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><data name="ABOUT_TERMS" xml:space="preserve"><value>Vilkår</value></data>
+  <data name="ONE_SIDED" xml:space="preserve"><value>1-sidig</value></data>
+  <data name="SDE_11_X_173" xml:space="preserve"><value>11 x 17"</value></data>
+  <data name="SDE_1SIDED" xml:space="preserve"><value>1-sidig</value></data>
+  <data name="SDE_1SIDED1" xml:space="preserve"><value>1-sidig</value></data>
+  <data name="SDE_2SIDED" xml:space="preserve"><value>2-sidig</value></data>
+  <data name="SDE_2SIDED_ROTATE_SIDE" xml:space="preserve"><value>2-sidig, roter side 2</value></data>
+  <data name="SDE_2SIDED_SCANNING" xml:space="preserve"><value>2-sidig skanning</value></data>
+  <data name="SDE_55_X_72" xml:space="preserve"><value>5,5 x 7"</value></data>
+  <data name="SDE_55_X_854" xml:space="preserve"><value>5,5 x 8,5"</value></data>
+  <data name="SDE_85_X_114" xml:space="preserve"><value>8,5 x 11"</value></data>
+  <data name="SDE_85_X_134" xml:space="preserve"><value>8,5 x 13"</value></data>
+  <data name="SDE_85_X_143" xml:space="preserve"><value>8,5 x 14"</value></data>
+  <data name="SDE_A31" xml:space="preserve"><value>A3</value></data>
+  <data name="SDE_A41" xml:space="preserve"><value>A4</value></data>
+  <data name="SDE_A51" xml:space="preserve"><value>A5</value></data>
+  <data name="SDE_ACCESS_DENIED1" xml:space="preserve"><value>Ingen tilgang.</value></data>
+  <data name="SDE_ACCOUNT_DETAILS" xml:space="preserve"><value>Kontoopplysninger</value></data>
+  <data name="SDE_ACCOUNT_INVITATION" xml:space="preserve"><value>Kontoinvitasjon</value></data>
+  <data name="SDE_ACCOUNT_SUSPENDED" xml:space="preserve"><value>Denne kontoen har blitt suspendert.</value></data>
+  <data name="SDE_ADMINISTRATOR_ACCOUNT" xml:space="preserve"><value>Administratorkonto</value></data>
+  <data name="SDE_ADMINISTRATOR_ACCOUNT_ALREADY" xml:space="preserve"><value>Administratorkontoen finnes allerede.</value></data>
+  <data name="SDE_ADMINISTRATOR_ACCOUNT_CREATED" xml:space="preserve"><value>Administratorkonto er opprettet.</value></data>
+  <data name="SDE_ADMINISTRATOR_ACCOUNT_SETUP" xml:space="preserve"><value>Oppsett av administratorkonto</value></data>
+  <data name="SDE_ALL_SUBACCOUNTS_ASSOCIATED" xml:space="preserve"><value>Alle underkontoer som er tilknyttet kontoen din, blir også slettet.</value></data>
+  <data name="SDE_APP_CANNOT_CONNECT" xml:space="preserve"><value>Appen kan ikke koble seg til nettverket.</value></data>
+  <data name="SDE_APP_UNAVAILABLE_TIME" xml:space="preserve"><value>Appen er ikke tilgjengelig på dette tidspunktet.</value></data>
+  <data name="SDE_AUDIO_DOCUMENTS_ACCOUNT1" xml:space="preserve"><value>Audio Documents-kontoen din har blitt opprettet.</value></data>
+  <data name="SDE_AUDIO_DOCUMENTS_RESET" xml:space="preserve"><value>Audio Documents har blitt tilbakestilt.</value></data>
+  <data name="SDE_AUTO_DETECT" xml:space="preserve"><value>Automatisk oppdagelse</value></data>
+  <data name="SDE_B4" xml:space="preserve"><value>B4</value></data>
+  <data name="SDE_B5" xml:space="preserve"><value>B5</value></data>
+  <data name="SDE_BALANCE" xml:space="preserve"><value>Gjenværende antall</value></data>
+  <data name="SDE_BALANCE1" xml:space="preserve"><value>Gjenværende antall</value></data>
+  <data name="SDE_BY_CREATING_ACCOUNT" xml:space="preserve"><value>Ved å opprette en konto samtykker du i nettstedets</value></data>
+  <data name="SDE_CANCEL" xml:space="preserve"><value>Avbryt</value></data>
+  <data name="SDE_CHANGE_EMAIL" xml:space="preserve"><value>Endre e-post</value></data>
+  <data name="SDE_CHANGE_PASSWORD" xml:space="preserve"><value>Endre passord</value></data>
+  <data name="SDE_CHARACTERS_CANNOT_BE" xml:space="preserve"><value>Disse tegnene kan ikke brukes: {0}</value></data>
+  <data name="SDE_CHECK_DEVICES_NETWORK" xml:space="preserve"><value>Kontroller enhetens nettverkstilkobling. Ta kontakt med systemadministratoren hvis problemet vedvarer.</value></data>
+  <data name="SDE_CLICK_LINK_BELOW" xml:space="preserve"><value>Klikk på lenken nedenfor for å laste ned filen din.</value></data>
+  <data name="SDE_CLOSE" xml:space="preserve"><value>Lukk</value></data>
+  <data name="SDE_CLOSE2" xml:space="preserve"><value>Lukk</value></data>
+  <data name="SDE_COMPLETE_ACCOUNT_SETUP" xml:space="preserve"><value>Fullfør kontooppsett</value></data>
+  <data name="SDE_COMPLETE_SETUP" xml:space="preserve"><value>Fullfør oppsett</value></data>
+  <data name="SDE_CONFIRM_DELETE_ACCOUNT4" xml:space="preserve"><value>Er du sikker på at du vil slette kontoen din?</value></data>
+  <data name="SDE_CONFIRM_DELETE_ACCOUNTS" xml:space="preserve"><value>Er du sikker på at du vil slette de valgte kontoene?</value></data>
+  <data name="SDE_CONFIRM_EMAIL1" xml:space="preserve"><value>Bekreft e-post</value></data>
+  <data name="SDE_CONFIRM_LOG_OUT2" xml:space="preserve"><value>Er du sikker på at du vil logge av Audio Documents?</value></data>
+  <data name="SDE_CONFIRM_LOG_OUT3" xml:space="preserve"><value>Er du sikker på at du vil logge av Xerox Note Converter?</value></data>
+  <data name="SDE_CONFIRM_NEW_PASSWORD" xml:space="preserve"><value>Bekreft nytt passord</value></data>
+  <data name="SDE_CONFIRM_PASSWORD" xml:space="preserve"><value>Bekreft passord</value></data>
+  <data name="SDE_CONTACT_ADMINISTRATOR_ASSISTANCE" xml:space="preserve"><value>Kontakt administratoren for å få hjelp.</value></data>
+  <data name="SDE_CONTACT_DEVICE_ADMINISTRATOR" xml:space="preserve"><value>Kontakt enhetsadministratoren for å aktivere disse tjenestene.</value></data>
+  <data name="SDE_CONTINUE" xml:space="preserve"><value>Fortsett</value></data>
+  <data name="SDE_CONVERSION_ERROR" xml:space="preserve"><value>Konverteringsfeil</value></data>
+  <data name="SDE_COPYRIGHT_FMTSTR_XEROX" xml:space="preserve"><value>Copyright © {0} Xerox Corporation. Med enerett.</value></data>
+  <data name="SDE_CREATE_ACCOUNT2" xml:space="preserve"><value>Opprett konto</value></data>
+  <data name="SDE_CREATE_ADMINISTRATOR_ACCOUNT1" xml:space="preserve"><value>Opprett administratorkonto</value></data>
+  <data name="SDE_CREATE_MY_ACCOUNT" xml:space="preserve"><value>Opprett min konto</value></data>
+  <data name="SDE_CURRENTLY_HAVE_NO2" xml:space="preserve"><value>Du har foreløpig ingen underkontoer</value></data>
+  <data name="SDE_DEAR_FMTSTR" xml:space="preserve"><value>Hei {0},</value></data>
+  <data name="SDE_DELETE" xml:space="preserve"><value>Slett</value></data>
+  <data name="SDE_DELETED" xml:space="preserve"><value>Slettet</value></data>
+  <data name="SDE_DOCUMENT_CONVERSION_ERROR" xml:space="preserve"><value>Konverteringsfeil for dokument</value></data>
+  <data name="SDE_DOCUMENT_SUCCESSFULLY_SCANNED" xml:space="preserve"><value>Dokumentet er skannet.</value></data>
+  <data name="SDE_DONE" xml:space="preserve"><value>Ferdig</value></data>
+  <data name="SDE_DOWNLOAD_AVAILABLE" xml:space="preserve"><value>Nedlasting tilgjengelig</value></data>
+  <data name="SDE_EMAIL_ADDRESS_ENTERED6" xml:space="preserve"><value>E-postadressen du har angitt, er allerede knyttet til en administratorkonto/abonnementspakke</value></data>
+  <data name="SDE_EMAIL_ADDRESS_ENTERED7" xml:space="preserve"><value>E-postadressen du har angitt, er tilknyttet en annen konto.</value></data>
+  <data name="SDE_EMAIL_ADDRESS6" xml:space="preserve"><value>E-postadresse</value></data>
+  <data name="SDE_EMAIL_ADDRESSES_DO1" xml:space="preserve"><value>E-postadressene stemmer ikke overens.</value></data>
+  <data name="SDE_EMAIL_ANDOR_PASSWORD" xml:space="preserve"><value>E-post og/eller passord er feil.</value></data>
+  <data name="SDE_EMAIL_ANDOR_PASSWORD1" xml:space="preserve"><value>Feil e-postadresse og/eller passord.</value></data>
+  <data name="SDE_EMAIL_NOT_FOUND" xml:space="preserve"><value>Fant ikke e-post. Kontroller stavingen og prøv igjen.</value></data>
+  <data name="SDE_EMAIL_NOT_VALID" xml:space="preserve"><value>E-postadressen har ikke et gyldig format.</value></data>
+  <data name="SDE_EMAIL_SENT_FOLLOWING" xml:space="preserve"><value>En e-post er sendt til følgende adresse med instruksjoner om å fullføre oppsett av konto.</value></data>
+  <data name="SDE_EMAIL_VERIFICATION_REQUIRED" xml:space="preserve"><value>E-postbekreftelse kreves.</value></data>
+  <data name="SDE_EMAIL_VERIFIED_SELECT" xml:space="preserve"><value>E-post er bekreftet. Velg Fortsett</value></data>
+  <data name="SDE_EMAIL2" xml:space="preserve"><value>E-post</value></data>
+  <data name="SDE_ENTER_DIFFERENT_EMAIL1" xml:space="preserve"><value>Angi en annen e-postadresse.</value></data>
+  <data name="SDE_ENTER_DIFFERENT_PRODUCT" xml:space="preserve"><value>Angi en annen produktnøkkel.</value></data>
+  <data name="SDE_ENTER_EMAIL" xml:space="preserve"><value>Angi e-postadresse</value></data>
+  <data name="SDE_ENTER_EMAIL_ADDRESS13" xml:space="preserve"><value>Angi en gyldig e-postadresse.</value></data>
+  <data name="SDE_ENTER_EMAIL_ADDRESS20" xml:space="preserve"><value>Angi en e-postadresse</value></data>
+  <data name="SDE_ENTER_EMAIL_RECEIVE1" xml:space="preserve"><value>Angi e-postadressen for å motta tekstfilen</value></data>
+  <data name="SDE_ENTER_FILE_NAME1" xml:space="preserve"><value>Angi filnavn</value></data>
+  <data name="SDE_ENTER_PASSWORD_2" xml:space="preserve"><value>Angi passord</value></data>
+  <data name="SDE_ENTER_PASSWORD2" xml:space="preserve"><value>Angi passord</value></data>
+  <data name="SDE_ENTER_PASSWORD3" xml:space="preserve"><value>Angi et passord</value></data>
+  <data name="SDE_ENTER_TCP_PORT1" xml:space="preserve"><value>Skriv inn gyldig TCP-port og DNS-navn.</value></data>
+  <data name="SDE_ERROR" xml:space="preserve"><value>Feil</value></data>
+  <data name="SDE_ERROR_OCCURRED" xml:space="preserve"><value>Det har oppstått en feil.</value></data>
+  <data name="SDE_FILE_NAME" xml:space="preserve"><value>Filnavn</value></data>
+  <data name="SDE_FIRST_NAME" xml:space="preserve"><value>Fornavn</value></data>
+  <data name="SDE_FMTSTR_DATE_TIMEFMTSTR" xml:space="preserve"><value>{0} [Dato og klokkeslett].{1}</value></data>
+  <data name="SDE_FMTSTR_FMTSTR_INVITED1" xml:space="preserve"><value>{1} {2} har invitert deg til opprette en Xerox® Note Converter-konto. Klikk på knappen nedenfor for å opprette kontoen din. Send et svar på denne e-posten til {3} hvis du har spørsmål om denne invitasjonen.</value></data>
+  <data name="SDE_FMTSTR_PAGES" xml:space="preserve"><value>{0} Sider</value></data>
+  <data name="SDE_FMTSTR_PAGES_WERE" xml:space="preserve"><value>{0} siden(e) er konvertert til lyd i {1}.</value></data>
+  <data name="SDE_FMTSTR_PAGES_WERE1" xml:space="preserve"><value>{0} side(r) er konvertert til tekst. Den konverterte tekstfilen er vedlagt.</value></data>
+  <data name="SDE_FMTSTRFMTSTR_XEROX_CORPORATION2" xml:space="preserve"><value>© {0} Xerox Corporation. Med enerett.</value></data>
+  <data name="SDE_FORGOT_PASSWORD3" xml:space="preserve"><value>Har du glemt passordet?</value></data>
+  <data name="SDE_FORGOT_PASSWORD4" xml:space="preserve"><value>Har du glemt passordet?</value></data>
+  <data name="SDE_GO_XEROX_APP" xml:space="preserve"><value>Gå til Xerox App Gallery for å kjøpe et nytt abonnement.</value></data>
+  <data name="SDE_HAVE_USED_ALL" xml:space="preserve"><value>Du har brukt opp alle sideskannene dine.</value></data>
+  <data name="SDE_HAVE_USED_ALL3" xml:space="preserve"><value>Du har brukt opp alle prøvesidene eller prøveperioden er utløpt. Gå til Xerox App Gallery for å kjøpe et abonnement.</value></data>
+  <data name="SDE_HERE" xml:space="preserve"><value>her</value></data>
+  <data name="SDE_I_UNDERSTAND" xml:space="preserve"><value>Jeg forstår.</value></data>
+  <data name="SDE_IF_ALREADY_HAVE" xml:space="preserve"><value>Hvis du allerede har påloggingsinformasjon for en Xerox® Note Converter-konto</value></data>
+  <data name="SDE_IF_DO_NOT8" xml:space="preserve"><value>Hvis du ikke mottar en e-post i løpet av noen minutter, ber vi deg sjekke søppelpostmappen. Merk meldingen som "Ikke søppelpost" for å sørge for at du mottar alle e-poster i fremtiden.</value></data>
+  <data name="SDE_IF_PROBLEM_PERSISTS3" xml:space="preserve"><value>Ta kontakt med Xerox-brukerstøtte hvis problemet vedvarer.</value></data>
+  <data name="SDE_IF_PROBLEM_PERSISTS4" xml:space="preserve"><value>Ta kontakt med Xerox-brukerstøtten hvis problemet vedvarer.</value></data>
+  <data name="SDE_INPUT_SCAN_SIZE" xml:space="preserve"><value>Inndataskannestørrelsen er ikke fastsatt</value></data>
+  <data name="SDE_INVITE" xml:space="preserve"><value>Inviter</value></data>
+  <data name="SDE_INVITED" xml:space="preserve"><value>Invitert</value></data>
+  <data name="SDE_JOB_CANCELED1" xml:space="preserve"><value>Jobben har blitt avbrutt.</value></data>
+  <data name="SDE_JOB_ID" xml:space="preserve"><value>Jobb-ID</value></data>
+  <data name="SDE_JOB_MANAGEMENT_EXTENSION" xml:space="preserve"><value>Jobbadministreringsutvidelse</value></data>
+  <data name="SDE_JOB_TIMED_OUT" xml:space="preserve"><value>Jobben er tidsavbrutt</value></data>
+  <data name="SDE_LAST_NAME" xml:space="preserve"><value>Etternavn</value></data>
+  <data name="SDE_LINK_AUDIO_FILE1" xml:space="preserve"><value>Lenken til lydfilen din utløper {0} eller etter {1} nedlastinger. Sørg for at du laster ned en lokal kopi av lydfilen før lenken utløper.</value></data>
+  <data name="SDE_LOADING" xml:space="preserve"><value>Laster inn ...</value></data>
+  <data name="SDE_LOG_IN" xml:space="preserve"><value>Logg på</value></data>
+  <data name="SDE_LOG_OUT" xml:space="preserve"><value>Logg av</value></data>
+  <data name="SDE_LOG_WRITTEN_NOTE" xml:space="preserve"><value>Logg på Xerox Note Converter-kontoen din.</value></data>
+  <data name="SDE_LOGIN_WRITTEN_NOTE" xml:space="preserve"><value>Innlogging i Xerox Note Converter-kontoen din.</value></data>
+  <data name="SDE_LOGIN_XEROX_ACTIVE" xml:space="preserve"><value>Logg på med Xerox® Active Directory</value></data>
+  <data name="SDE_MANAGE_MY_ACCOUNT" xml:space="preserve"><value>Administrasjon av Min konto</value></data>
+  <data name="SDE_MANAGE_SUBACCOUNTS" xml:space="preserve"><value>Administrasjon av underkontoer</value></data>
+  <data name="SDE_MAXIMUM_FILE_SIZE9" xml:space="preserve"><value>Maksimal filstørrelse er overskredet</value></data>
+  <data name="SDE_MAXIMUM_PAGES_PER" xml:space="preserve"><value>Maksimum sider per jobb</value></data>
+  <data name="SDE_MORE" xml:space="preserve"><value>Mer</value></data>
+  <data name="SDE_NAME" xml:space="preserve"><value>Navn</value></data>
+  <data name="SDE_NEW_PASSWORD" xml:space="preserve"><value>Nytt passord</value></data>
+  <data name="SDE_NO_PAGES_WERE" xml:space="preserve"><value>Ingen sider ble trukket fra kontoen din for denne jobben.</value></data>
+  <data name="SDE_OK" xml:space="preserve"><value>OK</value></data>
+  <data name="SDE_ORIGINAL_NOT_DETECTED" xml:space="preserve"><value>Original ikke registrert.</value></data>
+  <data name="SDE_ORIGINAL_SIZE" xml:space="preserve"><value>Opprinnelig størrelse</value></data>
+  <data name="SDE_PASSWORD" xml:space="preserve"><value>Passord</value></data>
+  <data name="SDE_PASSWORD_FORMAT_INVALID" xml:space="preserve"><value>Ugyldig passordformat.</value></data>
+  <data name="SDE_PASSWORD_MINIMUM_8" xml:space="preserve"><value>Passord må innehold minste 8 tegn, og må ha minst én stor bokstav, én liten bokstav og ett spesialtegn.</value></data>
+  <data name="SDE_PASSWORD_NOT_VALID1" xml:space="preserve"><value>Passord er ikke i et gyldig format.</value></data>
+  <data name="SDE_PASSWORD_RESET" xml:space="preserve"><value>Tilbakestill passord</value></data>
+  <data name="SDE_PASSWORD_RESET_INSTRUCTIONS1" xml:space="preserve"><value>Instruksjoner om tilbakestilling av passord er sendt.</value></data>
+  <data name="SDE_PASSWORDS_DO_NOT2" xml:space="preserve"><value>Passordene stemmer ikke overens.</value></data>
+  <data name="SDE_PASSWORDS_MUST_BE2" xml:space="preserve"><value>Passord må inneholde minst 8 tegn og minst tre av følgende: store bokstaver, små bokstaver, tall og symboler.</value></data>
+  <data name="SDE_PLACE_ORIGINAL_FEEDER" xml:space="preserve"><value>Legg originalen i materen eller på glasset, og prøv igjen.</value></data>
+  <data name="SDE_PLEASE_CHECK_DOCUMENT" xml:space="preserve"><value>Sjekk dokumentet og skann på nytt for å prøve igjen.</value></data>
+  <data name="SDE_PLEASE_CREATE_ADMINISTRATOR" xml:space="preserve"><value>Opprett en administratorkonto for å begynne å bruke denne appen.</value></data>
+  <data name="SDE_PLEASE_LOG_IN1" xml:space="preserve"><value>Logg på.</value></data>
+  <data name="SDE_PLEASE_RESCAN_DOCUMENT" xml:space="preserve"><value>Skann dokumentet på nytt og prøv igjen.</value></data>
+  <data name="SDE_PLEASE_RESTART_DEVICE" xml:space="preserve"><value>Start enheten på nytt og prøv igjen. Ta kontakt med Xerox-brukerstøtte hvis problemet vedvarer</value></data>
+  <data name="SDE_PLEASE_RESTART_DEVICE1" xml:space="preserve"><value>Start enheten på nytt og prøv igjen.</value></data>
+  <data name="SDE_PLEASE_TRY_AGAIN1" xml:space="preserve"><value>Prøv på nytt.</value></data>
+  <data name="SDE_PLEASE_TRY_AGAIN2" xml:space="preserve"><value>Prøv igjen senere.</value></data>
+  <data name="SDE_PLEASE_TRY_AGAIN6" xml:space="preserve"><value>Prøv igjen senere. Ta kontakt med Xerox-brukerstøtte hvis problemet vedvarer.</value></data>
+  <data name="SDE_PLEASE_TRY_AGAIN9" xml:space="preserve"><value>Prøv på nytt. Ta kontakt med Xerox-brukerstøtte hvis problemet vedvarer.</value></data>
+  <data name="SDE_PLEASE_TRY_AGAINIF" xml:space="preserve"><value>Prøv igjen.&lt;br/&gt;Kontakt Xerox-brukerstøtte hvis problemet vedvarer.</value></data>
+  <data name="SDE_PLEASE_USE_DIFFERENT" xml:space="preserve"><value>Bruk en annen e-postadresse for å opprette en ny administratorkonto.</value></data>
+  <data name="SDE_PRIVACY" xml:space="preserve"><value>Personvern</value></data>
+  <data name="SDE_PRIVACY_STATEMENT" xml:space="preserve"><value>Personvernerklæring</value></data>
+  <data name="SDE_PROCESSING1" xml:space="preserve"><value>Behandler ...</value></data>
+  <data name="SDE_PRODUCT_KEY_ALREADY" xml:space="preserve"><value>Denne produktnøkkelen har allerede blitt brukt til å aktivere et abonnement.</value></data>
+  <data name="SDE_RECENTLY_MADE_REQUEST" xml:space="preserve"><value>Du ba nylig om en tilbakestilling av passordet for {0}-kontoen din. Velg et nytt passord ved å trykke på knappen nedenfor.</value></data>
+  <data name="SDE_RECENTLY_MADE_REQUEST2" xml:space="preserve"><value>Du ba nylig om en tilbakestilling av Xerox® Note Converter-passordet ditt. Velg et nytt passord ved å trykke på knappen nedenfor.</value></data>
+  <data name="SDE_REMOVE" xml:space="preserve"><value>Fjern</value></data>
+  <data name="SDE_RENEW_PURCHASE_SUBSCRIPTION1" xml:space="preserve"><value>Forny eller kjøp et abonnement for å gjenopprette tilgang.</value></data>
+  <data name="SDE_REQUIRED_FIELD1" xml:space="preserve"><value>Dette er et obligatorisk felt.</value></data>
+  <data name="SDE_RESEND" xml:space="preserve"><value>Send igjen</value></data>
+  <data name="SDE_RESET" xml:space="preserve"><value>Tilbakestill</value></data>
+  <data name="SDE_RESET_PASSWORD" xml:space="preserve"><value>Tilbakestill passord</value></data>
+  <data name="SDE_SAVE" xml:space="preserve"><value>Lagre</value></data>
+  <data name="SDE_SAVED" xml:space="preserve"><value>Lagret</value></data>
+  <data name="SDE_SCAN" xml:space="preserve"><value>Skann</value></data>
+  <data name="SDE_SCAN_EXTENSION" xml:space="preserve"><value>Skanningsutvidelse</value></data>
+  <data name="SDE_SCAN_EXTENSION_SCAN1" xml:space="preserve"><value>Skanningsutvidelse &lt;/br&gt; Administrering av skannemaler &lt;/br&gt; Jobbadministreringsutvidelse&lt;div style='padding-top:10px;'&gt;Kontakt enhetsadministratoren for å aktivere disse tjenestene.&lt;/div&gt;</value></data>
+  <data name="SDE_SCAN_TEMPLATE_MANAGEMENT1" xml:space="preserve"><value>Administrering av skannemaler</value></data>
+  <data name="SDE_SCANNING1" xml:space="preserve"><value>Skanner ...</value></data>
+  <data name="SDE_SEND_NEW_CODE" xml:space="preserve"><value>Send ny kode</value></data>
+  <data name="SDE_SEND_REQUEST" xml:space="preserve"><value>Send forespørsel</value></data>
+  <data name="SDE_SEND_VERIFICATION_CODE" xml:space="preserve"><value>Send bekreftelseskode</value></data>
+  <data name="SDE_STATUS" xml:space="preserve"><value>Status</value></data>
+  <data name="SDE_SUBSCRIPTION_ACCESS_XEROX2" xml:space="preserve"><value>Abonnementet som gir tilgang til Xerox Note Converter er utløpt.</value></data>
+  <data name="SDE_SUPPLIES_OK" xml:space="preserve"><value>OK</value></data>
+  <data name="SDE_SUPPORT" xml:space="preserve"><value>Støtte</value></data>
+  <data name="SDE_THANK_USING_WRITTEN" xml:space="preserve"><value>Takk for at du bruker Xerox Note Converter</value></data>
+  <data name="SDE_THANK_USING_WRITTEN1" xml:space="preserve"><value>Takk for at du bruker Xerox Note Converter.</value></data>
+  <data name="SDE_THANK_USING_XEROX" xml:space="preserve"><value>Takk for at du bruker Audio Documents.</value></data>
+  <data name="SDE_THANK_YOU" xml:space="preserve"><value>Mange takk!</value></data>
+  <data name="SDE_TO_REMOVE_ACCOUNT" xml:space="preserve"><value>Hvis du vil fjerne kontoen din, må du først gjøre en annen bruker til administrator.</value></data>
+  <data name="SDE_TO_REQUEST_NEW4" xml:space="preserve"><value>For å be om et nytt passord må du angi e-postadressen som er knyttet til Xerox Audio Documents-kontoen din.</value></data>
+  <data name="SDE_TO_REQUEST_NEW5" xml:space="preserve"><value>Hvis du vil be om et nytt passord, må du angi e-postadressen som er knyttet til Xerox Note Converter-kontoen din.</value></data>
+  <data name="SDE_TO_REQUEST_NEW6" xml:space="preserve"><value>Hvis du vil be om et nytt passord, må du angi e-posten som er knyttet til Xerox Note Converter-kontoen din.</value></data>
+  <data name="SDE_TO_USE_APP" xml:space="preserve"><value>For å bruke denne appen må følgende nettjeneste(r) være aktivert.</value></data>
+  <data name="SDE_UNABLE_LOG_WRITTEN" xml:space="preserve"><value>Kan ikke logge på Xerox Note Converter.</value></data>
+  <data name="SDE_UNMONITORED_EMAIL_ADDRESS" xml:space="preserve"><value>Denne e-postadressen overvåkes ikke. Ikke svar på denne e-posten. Velg Brukerstøtte-lenken nedenfor for å få hjelp</value></data>
+  <data name="SDE_UPDATED" xml:space="preserve"><value>Oppdatert</value></data>
+  <data name="SDE_USER_MEMBER_ANOTHER" xml:space="preserve"><value>Denne brukeren er medlem av et annet abonnement.</value></data>
+  <data name="SDE_VERIFICATION_CODE" xml:space="preserve"><value>Bekreftelseskode</value></data>
+  <data name="SDE_VERIFICATION_CODE_SENT1" xml:space="preserve"><value>Bekreftelseskode har blitt sendt.</value></data>
+  <data name="SDE_VERIFY_CODE" xml:space="preserve"><value>Bekreft kode</value></data>
+  <data name="SDE_WE_WERE_UNABLE3" xml:space="preserve"><value>Vi kunne ikke slette følgende konto.</value></data>
+  <data name="SDE_WE_WERE_UNABLE5" xml:space="preserve"><value>Vi kunne ikke konvertere dokumentene til en tekstfil.</value></data>
+  <data name="SDE_WE_WERE_UNABLE6" xml:space="preserve"><value>Vi fant ingen sider som egner seg til tekstkonvertering.</value></data>
+  <data name="SDE_WILL_RECEIVE_EMAIL1" xml:space="preserve"><value>Du vil motta en e-post fra {0} med en lenke til lydfilen din.</value></data>
+  <data name="SDE_WILL_RECEIVE_EMAIL2" xml:space="preserve"><value>Du vil motta en e-post fra {0} med tekstfilen din.</value></data>
+  <data name="SDE_WRITTEN_NOTE_CONVERSION" xml:space="preserve"><value>Innlogging i Xerox Note Converter</value></data>
+  <data name="SDE_WRITTEN_NOTE_CONVERSION1" xml:space="preserve"><value>Xerox Note Converter-kontoen din har blitt opprettet.</value></data>
+  <data name="SDE_WRITTEN_NOTE_CONVERSION2" xml:space="preserve"><value>Xerox Note Converter-kontoen din har blitt oppdatert.</value></data>
+  <data name="SDE_WRITTEN_NOTE_CONVERSION3" xml:space="preserve"><value>Xerox Note Converter-portalen er utilgjengelig.</value></data>
+  <data name="SDE_WRITTEN_NOTE_CONVERSION4" xml:space="preserve"><value>Xerox Note Converter</value></data>
+  <data name="SDE_WRITTEN_NOTE_CONVERSION5" xml:space="preserve"><value>Xerox Note Converter har blitt tilbakestilt.</value></data>
+  <data name="SDE_WRITTEN_NOTE_CONVERSION6" xml:space="preserve"><value>Xerox Note Converter-appen er ikke riktig konfigurert.</value></data>
+  <data name="SDE_WRITTEN_NOTE_CONVERSION7" xml:space="preserve"><value>Xerox Note Converter-appen kan ikke koble seg til nettverket.</value></data>
+  <data name="SDE_WRITTEN_NOTE_CONVERSION8" xml:space="preserve"><value>Xerox Note Converter-appen er ikke tilgjengelig på dette tidspunktet.</value></data>
+  <data name="SDE_WRITTEN_NOTE_CONVERSION9" xml:space="preserve"><value>Xerox Note Converter-jobben din overskrider maksimalt antall tillatte sider. Reduser antall sider til {0} eller mindre. Vær oppmerksom på at alt større enn 8,5 x 11" eller A4 teller som 2 sider. Ingen sider ble trukket fra kontoen din for denne jobben.</value></data>
+  <data name="SDE_XEROX_AUDIO_DOCUMENTS" xml:space="preserve"><value>Audio Documents</value></data>
+  <data name="SDE_XEROX_AUDIO_DOCUMENTS5" xml:space="preserve"><value>Din Xerox® Audio Documents-administratorkonto har blitt opprettet.  Klikk på knappen nedenfor for å fullføre oppsettet av kontoen.</value></data>
+  <data name="SDE_XEROX_PRIVACY_STATEMENT" xml:space="preserve"><value>Xerox’ personvernerklæring</value></data>
+  <data name="SDE_XEROX_SCAN" xml:space="preserve"><value>Xerox-skann</value></data>
+  <data name="SDE_XEROX_WRITTEN_NOTE" xml:space="preserve"><value>Xerox Note Converter-administratorkontoen din har blitt opprettet.  Klikk på knappen nedenfor for å fullføre oppsettet av kontoen.</value></data>
+  <data name="SDE_XEROX_WRITTEN_NOTE1" xml:space="preserve"><value>Forespørsel om tilbakestilling av Xerox® Note Converter-passord</value></data>
+  <data name="SDE_XEROX_WRITTEN_NOTE2" xml:space="preserve"><value>Invitasjon til Xerox® Note Converter-konto</value></data>
+  <data name="TWO_SIDED" xml:space="preserve"><value>2-sidig</value></data>
+  </root>
